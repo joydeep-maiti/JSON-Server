@@ -1646,8 +1646,236 @@
           }
         }
       ],
-      "status": "Pending",
-      "id": "Req00009"
+      "status": "Other",
+      "id": "Req00009",
+      "totalEmi": [
+        {
+          "month": "24-1-2020",
+          "interest": 87,
+          "principal": 1073,
+          "outstandingBal": 11160,
+          "emi": 1160,
+          "paymentMode": "cash",
+          "ctDate": "20-2-2020",
+          "paidEmi": "78",
+          "balEmi": 1082,
+          "unpaidPen": 1136.1
+        },
+        {
+          "month": "24-2-2020",
+          "interest": 79,
+          "principal": 1081,
+          "outstandingBal": 10079,
+          "emi": 1160
+        },
+        {
+          "month": "24-3-2020",
+          "interest": 71,
+          "principal": 1089,
+          "outstandingBal": 8990,
+          "emi": 1160
+        },
+        {
+          "month": "24-4-2020",
+          "interest": 64,
+          "principal": 1096,
+          "outstandingBal": 7893,
+          "emi": 1160
+        },
+        {
+          "month": "24-5-2020",
+          "interest": 56,
+          "principal": 1104,
+          "outstandingBal": 6788,
+          "emi": 1160
+        },
+        {
+          "month": "24-6-2020",
+          "interest": 48,
+          "principal": 1112,
+          "outstandingBal": 5676,
+          "emi": 1160
+        },
+        {
+          "month": "24-7-2020",
+          "interest": 40,
+          "principal": 1120,
+          "outstandingBal": 4556,
+          "emi": 1160
+        },
+        {
+          "month": "24-8-2020",
+          "interest": 32,
+          "principal": 1128,
+          "outstandingBal": 3428,
+          "emi": 1160
+        },
+        {
+          "month": "24-9-2020",
+          "interest": 24,
+          "principal": 1136,
+          "outstandingBal": 2292,
+          "emi": 1160
+        },
+        {
+          "month": "24-10-2020",
+          "interest": 16,
+          "principal": 1144,
+          "outstandingBal": 1148,
+          "emi": 1160
+        },
+        {
+          "month": "24-11-2020",
+          "interest": 8,
+          "principal": 1152,
+          "outstandingBal": 0,
+          "emi": 1160
+        }
+      ],
+      "emiScheduler": [
+        {
+          "month": "24-1-2020",
+          "interest": 87,
+          "principal": 1073,
+          "outstandingBal": 11160,
+          "emi": 1160,
+          "paymentMode": "cash",
+          "ctDate": "20-2-2020",
+          "paidEmi": "78",
+          "balEmi": 1082,
+          "unpaidPen": 1136.1
+        },
+        {
+          "month": "24-2-2020",
+          "interest": 79,
+          "principal": 1081,
+          "outstandingBal": 10079,
+          "emi": 1160
+        },
+        {
+          "month": "24-3-2020",
+          "interest": 71,
+          "principal": 1089,
+          "outstandingBal": 8990,
+          "emi": 1160
+        },
+        {
+          "month": "24-4-2020",
+          "interest": 64,
+          "principal": 1096,
+          "outstandingBal": 7893,
+          "emi": 1160
+        },
+        {
+          "month": "24-5-2020",
+          "interest": 56,
+          "principal": 1104,
+          "outstandingBal": 6788,
+          "emi": 1160
+        },
+        {
+          "month": "24-6-2020",
+          "interest": 48,
+          "principal": 1112,
+          "outstandingBal": 5676,
+          "emi": 1160
+        },
+        {
+          "month": "24-7-2020",
+          "interest": 40,
+          "principal": 1120,
+          "outstandingBal": 4556,
+          "emi": 1160
+        },
+        {
+          "month": "24-8-2020",
+          "interest": 32,
+          "principal": 1128,
+          "outstandingBal": 3428,
+          "emi": 1160
+        },
+        {
+          "month": "24-9-2020",
+          "interest": 24,
+          "principal": 1136,
+          "outstandingBal": 2292,
+          "emi": 1160
+        },
+        {
+          "month": "24-10-2020",
+          "interest": 16,
+          "principal": 1144,
+          "outstandingBal": 1148,
+          "emi": 1160
+        },
+        {
+          "month": "24-11-2020",
+          "interest": 8,
+          "principal": 1152,
+          "outstandingBal": 0,
+          "emi": 1160
+        }
+      ]
+    },
+    {
+      "user": {
+        "fname": "efe",
+        "lname": "fefe",
+        "faName": "ef",
+        "age": "2020-02-12",
+        "mobileNo": "3434",
+        "emailId": "shilpa.khanna0611@gmail.com",
+        "AadharNo": "3434",
+        "panNo": "333",
+        "gender": "Male",
+        "occupation": "Self Employee",
+        "company:": "rgrg",
+        "Address": {
+          "currentAddress": {
+            "line1": "efegef",
+            "state": "efef",
+            "country": "efef",
+            "city": "efef",
+            "line2": "dwwd",
+            "landmark": "wdwd"
+          },
+          "permanentAddress": {}
+        }
+      },
+      "annualIncome": "4242",
+      "financial": [],
+      "expLoans": {
+        "principle": "23232",
+        "tenure": "2323",
+        "intrest": "646456",
+        "propertyType": "Gold",
+        "startDate": "2020-02-27",
+        "radio": ""
+      },
+      "totalProperty": [
+        {
+          "propertyType": "Gold loan",
+          "assestValue": "e2e",
+          "file1": {
+            "lastModified": 1580214733921,
+            "lastModifiedDate": "2020-01-28T12:32:13.921Z",
+            "name": "desktop-solid.svg",
+            "size": 462,
+            "type": "image/svg+xml"
+          }
+        }
+      ],
+      "id": "Req00010",
+      "status": "Pending"
+    }
+  ],
+  "property": [
+    {
+      "gold": 8.5,
+      "car": 9,
+      "propertyAgainst": 10.5,
+      "other": 11,
+      "id": 1
     }
   ]
 }
