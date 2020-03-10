@@ -53,7 +53,7 @@
       },
       "totalProperty": [],
       "status": "Approved",
-      "id": "000001"
+      "id": "Req00001"
     },
     {
       "user": {
@@ -123,7 +123,7 @@
           }
         }
       ],
-      "id": "000002",
+      "id": "Req00002",
       "status": "Approved"
     },
     {
@@ -195,7 +195,7 @@
         }
       ],
       "status": "Approved",
-      "id": "000003"
+      "id": "Req00003"
     },
     {
       "user": {
@@ -265,7 +265,7 @@
           }
         }
       ],
-      "id": "Req00003",
+      "id": "Req00004",
       "status": "Approved",
       "totalEmi": [
         {
@@ -769,7 +769,7 @@
           }
         }
       ],
-      "id": "Req00004",
+      "id": "Req00005",
       "status": "Approved",
       "totalEmi": [
         {
@@ -1276,7 +1276,7 @@
           }
         }
       ],
-      "id": "Req00051",
+      "id": "Req00006",
       "status": "Approved",
       "totalEmi": [
         {
@@ -1654,12 +1654,7 @@
           "interest": 87,
           "principal": 1073,
           "outstandingBal": 11160,
-          "emi": 1160,
-          "paymentMode": "cash",
-          "ctDate": "20-2-2020",
-          "paidEmi": "78",
-          "balEmi": 1082,
-          "unpaidPen": 1136.1
+          "emi": 1160
         },
         {
           "month": "24-2-2020",
@@ -1813,7 +1808,9 @@
           "interest": 8,
           "principal": 1152,
           "outstandingBal": 0,
-          "emi": 1160
+          "emi": 1160,
+          "paidEmi": 1160,
+          "balEmi": 0
         }
       ]
     },
@@ -1867,15 +1864,329 @@
       ],
       "id": "Req00010",
       "status": "Pending"
+    },
+    {
+      "user": {
+        "fname": "j",
+        "lname": "j",
+        "faName": "j",
+        "age": "2020-03-05",
+        "mobileNo": "122",
+        "emailId": "shilpa.khanna0611@gmail.com",
+        "AadharNo": "11121212",
+        "gender": "Male",
+        "panNo": "1313",
+        "occupation": "Self Employee",
+        "company:": "wrw",
+        "Address": {
+          "currentAddress": {
+            "line1": "qeqe",
+            "line2": "ewewe",
+            "city": "wewe",
+            "state": "wewe",
+            "country": "ewewe"
+          },
+          "permanentAddress": {}
+        }
+      },
+      "annualIncome": "1212",
+      "financial": [],
+      "expLoans": {
+        "propertyType": "car",
+        "intrest": "8.5",
+        "principle": "647858",
+        "tenure": "6",
+        "startDate": "2020-04-16",
+        "radio": "flexible"
+      },
+      "totalProperty": [],
+      "id": "Req00011",
+      "status": "Pending"
+    },
+    {
+      "user": {
+        "fname": "Sumit",
+        "lname": "Das",
+        "faName": "Arijit Das",
+        "age": "1995-06-14",
+        "mobileNo": "9884342567",
+        "emailId": "test@gmail.com",
+        "gender": "Male",
+        "panNo": "ZERUO56565",
+        "AadharNo": "1883355563",
+        "occupation": "Self Employee",
+        "company:": "Wipro",
+        "Address": {
+          "currentAddress": {
+            "line1": "Whitefield",
+            "city": "Bangalore",
+            "state": "Karnataka",
+            "country": "India"
+          },
+          "permanentAddress": {}
+        }
+      },
+      "annualIncome": "1000000",
+      "financial": [],
+      "expLoans": {
+        "principle": "2000000",
+        "tenure": "15",
+        "propertyType": "Gold",
+        "intrest": "8.5",
+        "startDate": "2020-04-01",
+        "radio": "flexible"
+      },
+      "totalProperty": [
+        {
+          "propertyType": "Gold loan",
+          "assestValue": "20000",
+          "file1": {
+            "lastModified": 1583774586861,
+            "lastModifiedDate": "2020-03-09T17:23:06.861Z",
+            "name": "desktop-solid (1).svg",
+            "size": 462,
+            "type": "image/svg+xml"
+          },
+          "file2": {
+            "lastModified": 1580218706158,
+            "lastModifiedDate": "2020-01-28T13:38:26.158Z",
+            "name": "envelope-solid.svg",
+            "size": 700,
+            "type": "image/svg+xml"
+          },
+          "file3": {
+            "lastModified": 1580216115058,
+            "lastModifiedDate": "2020-01-28T12:55:15.058Z",
+            "name": "location-arrow-solid.svg",
+            "size": 406,
+            "type": "image/svg+xml"
+          }
+        }
+      ],
+      "id": "Req00012",
+      "status": "Pending"
+    },
+    {
+      "user": {
+        "fname": "Sumit",
+        "lname": "Das",
+        "faName": "Arijit",
+        "age": "1995-06-14",
+        "mobileNo": "9884342567",
+        "emailId": "test@gmail.com",
+        "gender": "Male",
+        "panNo": "ZERUO56565",
+        "AadharNo": "1883355563",
+        "occupation": "Self Employee",
+        "company:": "Wipro",
+        "Address": {
+          "currentAddress": {
+            "line1": "Whitefield",
+            "city": "Bangalore",
+            "state": "Karnataka",
+            "country": "India"
+          },
+          "permanentAddress": {}
+        },
+        "address": {
+          "currentAddress": {
+            "line1": "Whitefield",
+            "city": "Bangalore",
+            "state": "Karnataka",
+            "country": "India"
+          },
+          "permanentAddress": {}
+        }
+      },
+      "annualIncome": "1000000",
+      "financial": [],
+      "expLoans": {
+        "principle": "2000000",
+        "tenure": "15",
+        "propertyType": "Gold",
+        "intrest": "8.5",
+        "startDate": "2020-04-01",
+        "radio": "flexible"
+      },
+      "totalProperty": [
+        {
+          "propertyType": "Gold loan",
+          "assestValue": "20000",
+          "file1": {
+            "lastModified": 1583774586861,
+            "lastModifiedDate": "2020-03-09T17:23:06.861Z",
+            "name": "desktop-solid (1).svg",
+            "size": 462,
+            "type": "image/svg+xml"
+          },
+          "file2": {
+            "lastModified": 1580218706158,
+            "lastModifiedDate": "2020-01-28T13:38:26.158Z",
+            "name": "envelope-solid.svg",
+            "size": 700,
+            "type": "image/svg+xml"
+          },
+          "file3": {
+            "lastModified": 1580216115058,
+            "lastModifiedDate": "2020-01-28T12:55:15.058Z",
+            "name": "location-arrow-solid.svg",
+            "size": 406,
+            "type": "image/svg+xml"
+          }
+        }
+      ],
+      "id": "Req00013",
+      "status": "Pending",
+      "totalEmi": [
+        {
+          "month": "1-4-2020",
+          "interest": 14167,
+          "principal": 126846,
+          "outstandingBal": 1873153,
+          "emi": 141013
+        },
+        {
+          "month": "1-5-2020",
+          "interest": 13268,
+          "principal": 127745,
+          "outstandingBal": 1745408,
+          "emi": 141013
+        },
+        {
+          "month": "1-6-2020",
+          "interest": 12363,
+          "principal": 128650,
+          "outstandingBal": 1616758,
+          "emi": 141013
+        },
+        {
+          "month": "1-7-2020",
+          "interest": 11452,
+          "principal": 129561,
+          "outstandingBal": 1487197,
+          "emi": 141013
+        },
+        {
+          "month": "1-8-2020",
+          "interest": 10534,
+          "principal": 130479,
+          "outstandingBal": 1356718,
+          "emi": 141013
+        },
+        {
+          "month": "1-9-2020",
+          "interest": 9610,
+          "principal": 131403,
+          "outstandingBal": 1225315,
+          "emi": 141013
+        },
+        {
+          "month": "1-10-2020",
+          "interest": 8679,
+          "principal": 132334,
+          "outstandingBal": 1092981,
+          "emi": 141013
+        },
+        {
+          "month": "1-11-2020",
+          "interest": 7742,
+          "principal": 133271,
+          "outstandingBal": 959709,
+          "emi": 141013
+        },
+        {
+          "month": "1-12-2020",
+          "interest": 6798,
+          "principal": 134215,
+          "outstandingBal": 825493,
+          "emi": 141013
+        },
+        {
+          "month": "1-1-2021",
+          "interest": 5847,
+          "principal": 135166,
+          "outstandingBal": 690327,
+          "emi": 141013
+        },
+        {
+          "month": "1-2-2021",
+          "interest": 4890,
+          "principal": 136123,
+          "outstandingBal": 554203,
+          "emi": 141013
+        },
+        {
+          "month": "1-3-2021",
+          "interest": 3926,
+          "principal": 137087,
+          "outstandingBal": 417115,
+          "emi": 141013
+        },
+        {
+          "month": "1-4-2021",
+          "interest": 2955,
+          "principal": 138058,
+          "outstandingBal": 279056,
+          "emi": 141013
+        },
+        {
+          "month": "1-5-2021",
+          "interest": 1977,
+          "principal": 139036,
+          "outstandingBal": 140019,
+          "emi": 141013
+        },
+        {
+          "month": "1-6-2021",
+          "interest": 992,
+          "principal": 140021,
+          "outstandingBal": 0,
+          "emi": 141013
+        }
+      ]
     }
   ],
   "property": [
     {
-      "gold": 8.5,
-      "car": 9,
-      "propertyAgainst": 10.5,
-      "other": 11,
+      "gold": "9.4",
+      "car": "8.8",
+      "propertyAgainst": "10.5",
+      "other": "9",
       "id": 1
+    },
+    {
+      "gold": "355",
+      "car": "88",
+      "propertyAgainst": "100",
+      "other": "94",
+      "id": 2
+    }
+  ],
+  "user": [
+    {
+      "username": "Test",
+      "userrole": "Admin",
+      "id": 1
+    },
+    {
+      "username": "Test1",
+      "userrole": "Approver L1",
+      "id": 2
+    },
+    {
+      "username": "Test2",
+      "userrole": "Authorizer",
+      "id": 3
+    },
+    {
+      "username": "Test3",
+      "userrole": "Approver L2",
+      "id": 4
+    },
+    {
+      "username": "Test4",
+      "userrole": "User",
+      "id": 5
     }
   ]
 }
