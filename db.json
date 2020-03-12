@@ -2,1909 +2,6 @@
   "users": [
     {
       "user": {
-        "fname": "Sundaresan",
-        "lname": "V",
-        "faName": "Venugopal",
-        "age": "1995-05-26",
-        "mobileNo": "09865089625",
-        "emailId": "sundargopal26@gmail.com",
-        "gender": "Male",
-        "panNo:": "1234567890",
-        "AadharNo": "1222233345",
-        "occupation": "Salried",
-        "company:": "Wipro",
-        "Address": {
-          "currentAddress": {
-            "line1": "15 2 kuilan Thoppu 1st Street,",
-            "line2": "karungal palayam,",
-            "city": "e",
-            "state": "T",
-            "country": "India"
-          },
-          "permanentAddress": {}
-        },
-        "address": {
-          "currentAddress": {
-            "line1": "15 2 kuilan Thoppu 1st Street,",
-            "line2": "karungal palayam,",
-            "city": "e",
-            "state": "T",
-            "country": "India"
-          },
-          "permanentAddress": {}
-        },
-        "panNo": "122222234"
-      },
-      "financial": [
-        {
-          "bankName": "Kotak",
-          "liabilityType": "property Morgaged",
-          "AssetValue": "25000",
-          "AssetTenure": "5"
-        }
-      ],
-      "expLoans": {
-        "principle": "300000",
-        "tenure": "24",
-        "interest": "11",
-        "startDate": "2020-02-01",
-        "propertyType": "Gold",
-        "radio": ""
-      },
-      "totalProperty": [],
-      "status": "Approved",
-      "id": "Req00001"
-    },
-    {
-      "user": {
-        "fname": "Hari",
-        "lname": "V",
-        "faName": "Venugopal",
-        "age": "2000-03-26",
-        "mobileNo": "3456789111",
-        "emailId": "siuhu@h.com",
-        "gender": "Male",
-        "panNo:": "1234567890",
-        "AadharNo": "98765432",
-        "occupation": "Salried",
-        "company:": "Exalca",
-        "Address": {
-          "currentAddress": {
-            "line1": "15 2 kuilan Thoppu 1st Street,",
-            "line2": "karungal palayam,",
-            "city": " Erode",
-            "state": "Tamil Nadu",
-            "country": "India"
-          },
-          "permanentAddress": {
-            "ptline1": "15 2 kuilan Thoppu 1st Street,",
-            "ptline2": "karungal palayam,",
-            "ptcity": " Erode",
-            "ptstate": "Tamil Nadu",
-            "ptcountry": "India"
-          }
-        }
-      },
-      "annualIncome": "250000",
-      "financial": [
-        {
-          "bankName": "hdfc",
-          "liabilityType": "property Morgaged",
-          "AssetValue": "100000",
-          "AssetTenure": "12"
-        }
-      ],
-      "expLoans": {
-        "principle": "250000",
-        "tenure": "48",
-        "interest": "12",
-        "startDate": "2020-02-15",
-        "propertyType": "Car",
-        "radio": "fixed"
-      },
-      "totalProperty": [
-        {
-          "propertyType": "Gold loan",
-          "assestValue": "100000",
-          "file1": {
-            "name": "NDA - Offshore.pdf",
-            "size": 110318,
-            "type": "application/pdf"
-          },
-          "file2": {
-            "name": "NDA - Offshore (1).pdf",
-            "size": 110318,
-            "type": "application/pdf"
-          },
-          "file3": {
-            "name": "your details.png",
-            "size": 195447,
-            "type": "image/png"
-          }
-        }
-      ],
-      "id": "Req00002",
-      "status": "Approved"
-    },
-    {
-      "user": {
-        "fname": "Shini",
-        "lname": "V",
-        "faName": "Venugopal",
-        "age": "2000-10-04",
-        "mobileNo": "123456789",
-        "emailId": "sh@g.com",
-        "gender": "female",
-        "panNo:": "23456789",
-        "AadharNo": "97542",
-        "occupation": "Self Employee",
-        "company:": "abc",
-        "Address": {
-          "currentAddress": {
-            "line1": "15 2 kuilan Thoppu 1st Street,",
-            "line2": "karungal palayam,",
-            "city": " Erode",
-            "state": "Tamil Nadu",
-            "country": "India"
-          },
-          "permanentAddress": {
-            "ptline1": "15 2 kuilan Thoppu 1st Street,",
-            "ptline2": "karungal palayam,",
-            "ptcity": " Erode",
-            "ptstate": "Tamil Nadu",
-            "ptcountry": "India"
-          }
-        }
-      },
-      "annualIncome": "400000",
-      "financial": [
-        {
-          "bankName": "icici",
-          "liabilityType": "property Morgaged",
-          "AssetValue": "20000",
-          "AssetTenure": "20"
-        }
-      ],
-      "expLoans": {
-        "principle": "200000",
-        "tenure": "48",
-        "interest": "11",
-        "startDate": "2020-01-01",
-        "propertyType": "House",
-        "radio": "fixed"
-      },
-      "totalProperty": [
-        {
-          "propertyType": "property against",
-          "assestValue": "100000",
-          "file1": {
-            "name": "NDA - Offshore.pdf",
-            "size": 110318,
-            "type": "application/pdf"
-          },
-          "file2": {
-            "name": "property.png",
-            "size": 187173,
-            "type": "image/png"
-          },
-          "file3": {
-            "name": "Final Appliances catalog-2016-17.PDF",
-            "size": 965077,
-            "type": "application/pdf"
-          }
-        }
-      ],
-      "status": "Approved",
-      "id": "Req00003"
-    },
-    {
-      "user": {
-        "fname": "Sundaresan",
-        "lname": "V",
-        "faName": "Venugopal",
-        "age": "1995-05-26",
-        "mobileNo": "09865089625",
-        "emailId": "sundargopal26@gmail.com",
-        "gender": "Male",
-        "panNo": "129djn4b3",
-        "AadharNo": "23eded43",
-        "occupation": "Salried",
-        "company:": "wipro",
-        "Address": {
-          "currentAddress": {
-            "line1": "15 2 kuilan Thoppu 1st Street,",
-            "line2": "karungal palayam,",
-            "city": " Erode",
-            "state": "Tamil Nadu",
-            "country": "India"
-          },
-          "permanentAddress": {
-            "ptline1": "15 2 kuilan Thoppu 1st Street,",
-            "ptline2": "karungal palayam,",
-            "ptcity": " Erode",
-            "ptstate": "Tamil Nadu",
-            "ptcountry": "India"
-          }
-        }
-      },
-      "annualIncome": "581000",
-      "financial": [
-        {
-          "bankName": "HDFC",
-          "liabilityType": "Gold loan",
-          "AssetValue": "25000",
-          "AssetTenure": "5"
-        }
-      ],
-      "expLoans": {
-        "principle": "500000",
-        "tenure": "24",
-        "intrest": "12",
-        "propertyType": "property against",
-        "startDate": "2020-01-01",
-        "radio": "fixed"
-      },
-      "totalProperty": [
-        {
-          "propertyType": "property against",
-          "assestValue": "1000000",
-          "file1": {
-            "name": "ODC access and RSA Allocation Trainings for new joiners (005) (007).docx",
-            "size": 290348,
-            "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
-          },
-          "file2": {
-            "name": "Address.png",
-            "size": 270936,
-            "type": "image/png"
-          },
-          "file3": {
-            "name": "addProperty.png",
-            "size": 241587,
-            "type": "image/png"
-          }
-        }
-      ],
-      "id": "Req00004",
-      "status": "Approved",
-      "totalEmi": [
-        {
-          "month": "1-1-2020",
-          "interest": 5000,
-          "principal": 18537,
-          "outstandingBal": 481463,
-          "emi": 23537
-        },
-        {
-          "month": "1-2-2020",
-          "interest": 4815,
-          "principal": 18722,
-          "outstandingBal": 462740,
-          "emi": 23537
-        },
-        {
-          "month": "1-3-2020",
-          "interest": 4627,
-          "principal": 18910,
-          "outstandingBal": 443830,
-          "emi": 23537
-        },
-        {
-          "month": "1-4-2020",
-          "interest": 4438,
-          "principal": 19099,
-          "outstandingBal": 424731,
-          "emi": 23537
-        },
-        {
-          "month": "1-5-2020",
-          "interest": 4247,
-          "principal": 19290,
-          "outstandingBal": 405441,
-          "emi": 23537
-        },
-        {
-          "month": "1-6-2020",
-          "interest": 4054,
-          "principal": 19483,
-          "outstandingBal": 385958,
-          "emi": 23537
-        },
-        {
-          "month": "1-7-2020",
-          "interest": 3860,
-          "principal": 19677,
-          "outstandingBal": 366280,
-          "emi": 23537
-        },
-        {
-          "month": "1-8-2020",
-          "interest": 3663,
-          "principal": 19874,
-          "outstandingBal": 346405,
-          "emi": 23537
-        },
-        {
-          "month": "1-9-2020",
-          "interest": 3464,
-          "principal": 20073,
-          "outstandingBal": 326332,
-          "emi": 23537
-        },
-        {
-          "month": "1-10-2020",
-          "interest": 3263,
-          "principal": 20274,
-          "outstandingBal": 306058,
-          "emi": 23537
-        },
-        {
-          "month": "1-11-2020",
-          "interest": 3061,
-          "principal": 20476,
-          "outstandingBal": 285581,
-          "emi": 23537
-        },
-        {
-          "month": "1-12-2020",
-          "interest": 2856,
-          "principal": 20681,
-          "outstandingBal": 264899,
-          "emi": 23537
-        },
-        {
-          "month": "1-1-2021",
-          "interest": 2649,
-          "principal": 20888,
-          "outstandingBal": 244010,
-          "emi": 23537
-        },
-        {
-          "month": "1-2-2021",
-          "interest": 2440,
-          "principal": 21097,
-          "outstandingBal": 222913,
-          "emi": 23537
-        },
-        {
-          "month": "1-3-2021",
-          "interest": 2229,
-          "principal": 21308,
-          "outstandingBal": 201605,
-          "emi": 23537
-        },
-        {
-          "month": "1-4-2021",
-          "interest": 2016,
-          "principal": 21521,
-          "outstandingBal": 180084,
-          "emi": 23537
-        },
-        {
-          "month": "1-5-2021",
-          "interest": 1801,
-          "principal": 21736,
-          "outstandingBal": 158347,
-          "emi": 23537
-        },
-        {
-          "month": "1-6-2021",
-          "interest": 1583,
-          "principal": 21954,
-          "outstandingBal": 136393,
-          "emi": 23537
-        },
-        {
-          "month": "1-7-2021",
-          "interest": 1364,
-          "principal": 22173,
-          "outstandingBal": 114219,
-          "emi": 23537
-        },
-        {
-          "month": "1-8-2021",
-          "interest": 1142,
-          "principal": 22395,
-          "outstandingBal": 91824,
-          "emi": 23537
-        },
-        {
-          "month": "1-9-2021",
-          "interest": 918,
-          "principal": 22619,
-          "outstandingBal": 69205,
-          "emi": 23537
-        },
-        {
-          "month": "1-10-2021",
-          "interest": 692,
-          "principal": 22845,
-          "outstandingBal": 46360,
-          "emi": 23537
-        },
-        {
-          "month": "1-11-2021",
-          "interest": 464,
-          "principal": 23073,
-          "outstandingBal": 23286,
-          "emi": 23537
-        },
-        {
-          "month": "1-12-2021",
-          "interest": 233,
-          "principal": 23304,
-          "outstandingBal": 0,
-          "emi": 23537
-        }
-      ],
-      "emiScheduler": [
-        {
-          "month": "1-1-2020",
-          "interest": 5000,
-          "principal": 18537,
-          "outstandingBal": 481463,
-          "emi": 23537,
-          "paymentMode": "cheque",
-          "ctDate": "27-12-2019",
-          "paidEmi": 23537,
-          "balEmi": 0
-        },
-        {
-          "month": "1-2-2020",
-          "interest": 4815,
-          "principal": 18722,
-          "outstandingBal": 462740,
-          "emi": 23537,
-          "paymentMode": "NFFT",
-          "ctDate": "29-12-2019",
-          "paidEmi": 23537,
-          "balEmi": 0
-        },
-        {
-          "month": "1-3-2020",
-          "interest": 4627,
-          "principal": 18910,
-          "outstandingBal": 443830,
-          "emi": 23537,
-          "paymentMode": "NFFT",
-          "ctDate": "29-12-2019",
-          "paidEmi": 23537,
-          "balEmi": 0
-        },
-        {
-          "month": "1-4-2020",
-          "interest": 4438,
-          "principal": 19099,
-          "outstandingBal": 424731,
-          "emi": 23537,
-          "paymentMode": "NFFT",
-          "ctDate": "26-12-2019",
-          "paidEmi": 23537,
-          "balEmi": 0
-        },
-        {
-          "month": "1-5-2020",
-          "interest": 4247,
-          "principal": 19290,
-          "outstandingBal": 405441,
-          "emi": 23537,
-          "paymentMode": "cheque",
-          "ctDate": "31-1-2020",
-          "paidEmi": "20000",
-          "balEmi": 3537,
-          "unpaidPen": 3713.85
-        },
-        {
-          "month": "1-6-2020",
-          "interest": 4054,
-          "principal": 19483,
-          "outstandingBal": 385958,
-          "emi": 23537,
-          "paymentMode": "cheque",
-          "ctDate": "21-12-2019",
-          "paidEmi": 23537,
-          "balEmi": 0
-        },
-        {
-          "month": "1-7-2020",
-          "interest": 3860,
-          "principal": 19677,
-          "outstandingBal": 366280,
-          "emi": 23537,
-          "paymentMode": "NFFT",
-          "ctDate": "3-1-2020",
-          "paidEmi": 23537,
-          "balEmi": 0
-        },
-        {
-          "month": "1-8-2020",
-          "interest": 3663,
-          "principal": 19874,
-          "outstandingBal": 346405,
-          "emi": 23537,
-          "paymentMode": "NFFT",
-          "ctDate": "25-9-2020",
-          "paidEmi": 23537,
-          "balEmi": 0
-        },
-        {
-          "month": "1-9-2020",
-          "interest": 3464,
-          "principal": 20073,
-          "outstandingBal": 326332,
-          "emi": 23537,
-          "paymentMode": "NFFT",
-          "ctDate": "9-9-2020",
-          "paidEmi": "23000",
-          "balEmi": 537
-        },
-        {
-          "month": "1-10-2020",
-          "interest": 3263,
-          "principal": 20274,
-          "outstandingBal": 306058,
-          "emi": 23537,
-          "paymentMode": "NFFT",
-          "ctDate": "30-1-2020",
-          "paidEmi": "20000",
-          "balEmi": 3537,
-          "unpaidPen": 3713.85
-        },
-        {
-          "month": "1-11-2020",
-          "interest": 3061,
-          "principal": 20476,
-          "outstandingBal": 285581,
-          "emi": 23537,
-          "paymentMode": "NFFT",
-          "ctDate": "5-11-2020",
-          "paidEmi": "20000",
-          "balEmi": 3537
-        },
-        {
-          "month": "1-12-2020",
-          "interest": 2856,
-          "principal": 20681,
-          "outstandingBal": 264899,
-          "emi": 23537,
-          "paymentMode": "cheque",
-          "ctDate": "27-12-2019",
-          "paidEmi": "20000",
-          "balEmi": 3537
-        },
-        {
-          "month": "1-1-2021",
-          "interest": 2649,
-          "principal": 20888,
-          "outstandingBal": 244010,
-          "emi": 23537,
-          "paymentMode": "cash",
-          "ctDate": "10-1-2021",
-          "paidEmi": "22000",
-          "balEmi": 1537
-        },
-        {
-          "month": "1-2-2021",
-          "interest": 2440,
-          "principal": 21097,
-          "outstandingBal": 222913,
-          "emi": 23537,
-          "paymentMode": "cash",
-          "ctDate": "6-2-2020",
-          "paidEmi": "22000",
-          "balEmi": 1537
-        },
-        {
-          "month": "1-3-2021",
-          "interest": 2229,
-          "principal": 21308,
-          "outstandingBal": 201605,
-          "emi": 23537,
-          "paymentMode": "NFFT",
-          "ctDate": "28-12-2019",
-          "paidEmi": "23000",
-          "balEmi": 537,
-          "unpaidPen": 563.85
-        },
-        {
-          "month": "1-4-2021",
-          "interest": 2016,
-          "principal": 21521,
-          "outstandingBal": 180084,
-          "emi": 23537,
-          "paymentMode": "NFFT",
-          "ctDate": "29-12-2019",
-          "paidEmi": "22000",
-          "balEmi": 1537,
-          "unpaidPen": 2177.7
-        },
-        {
-          "month": "1-5-2021",
-          "interest": 1801,
-          "principal": 21736,
-          "outstandingBal": 158347,
-          "emi": 23537,
-          "paymentMode": "NFFT",
-          "ctDate": "29-12-2019",
-          "paidEmi": 23537,
-          "balEmi": 0
-        },
-        {
-          "month": "1-6-2021",
-          "interest": 1583,
-          "principal": 21954,
-          "outstandingBal": 136393,
-          "emi": 23537,
-          "paymentMode": "cheque",
-          "ctDate": "29-12-2019",
-          "paidEmi": "23000",
-          "balEmi": 537,
-          "unpaidPen": 563.85
-        },
-        {
-          "month": "1-7-2021",
-          "interest": 1364,
-          "principal": 22173,
-          "outstandingBal": 114219,
-          "emi": 23537,
-          "paymentMode": "cheque",
-          "ctDate": "8-3-2020",
-          "paidEmi": 23537,
-          "balEmi": 0
-        },
-        {
-          "month": "1-8-2021",
-          "interest": 1142,
-          "principal": 22395,
-          "outstandingBal": 91824,
-          "emi": 23537,
-          "paymentMode": "cheque",
-          "ctDate": "31-1-2020",
-          "paidEmi": "23537"
-        },
-        {
-          "month": "1-9-2021",
-          "interest": 918,
-          "principal": 22619,
-          "outstandingBal": 69205,
-          "emi": 23537
-        },
-        {
-          "month": "1-10-2021",
-          "interest": 692,
-          "principal": 22845,
-          "outstandingBal": 46360,
-          "emi": 23537,
-          "paymentMode": "NFFT",
-          "ctDate": "30-1-2020",
-          "paidEmi": "20000",
-          "balEmi": 3537,
-          "unpaidPen": 3713.85
-        },
-        {
-          "month": "1-11-2021",
-          "interest": 464,
-          "principal": 23073,
-          "outstandingBal": 23286,
-          "emi": 23537,
-          "paymentMode": "NFFT",
-          "ctDate": "30-1-2020",
-          "paidEmi": "23000",
-          "balEmi": 537,
-          "unpaidPen": 4277.7
-        },
-        {
-          "month": "1-12-2021",
-          "interest": 233,
-          "principal": 23304,
-          "outstandingBal": 0,
-          "emi": 23537,
-          "paymentMode": "NFFT",
-          "ctDate": "31-1-2020",
-          "paidEmi": "20000",
-          "balEmi": 3537,
-          "unpaidPen": 7991.549999999999
-        }
-      ]
-    },
-    {
-      "user": {
-        "fname": "Animesh",
-        "lname": "K",
-        "faName": "K",
-        "age": "2020-01-03",
-        "mobileNo": "08148494649",
-        "emailId": "har@gmail.com",
-        "gender": "Male",
-        "panNo": "4567uyghjk",
-        "AadharNo": "45676trfgh",
-        "occupation": "Self Employee",
-        "company:": "wiii",
-        "Address": {
-          "currentAddress": {
-            "line1": "15 2 kuilan Thoppu 1st Street,",
-            "line2": "karungal palayam,",
-            "city": " Erode",
-            "state": "Tamil Nadu",
-            "country": "India"
-          },
-          "permanentAddress": {}
-        }
-      },
-      "annualIncome": "500000",
-      "financial": [
-        {
-          "bankName": "HDFC",
-          "liabilityType": "property Morgaged",
-          "AssetValue": "500000",
-          "AssetTenure": "15"
-        }
-      ],
-      "expLoans": {
-        "principle": "1000000",
-        "tenure": "24",
-        "intrest": "12",
-        "propertyType": "property against",
-        "startDate": "2020-01-01",
-        "radio": "fixed"
-      },
-      "totalProperty": [
-        {
-          "propertyType": "property against",
-          "assestValue": "2500000",
-          "file1": {
-            "name": "LBG NDA Document.pdf",
-            "size": 231577,
-            "type": "application/pdf"
-          },
-          "file2": {
-            "name": "Address.png",
-            "size": 270936,
-            "type": "image/png"
-          },
-          "file3": {
-            "name": "addProperty.png",
-            "size": 241587,
-            "type": "image/png"
-          }
-        }
-      ],
-      "id": "Req00005",
-      "status": "Approved",
-      "totalEmi": [
-        {
-          "month": "1-1-2020",
-          "interest": 10000,
-          "principal": 37073,
-          "outstandingBal": 962927,
-          "emi": 47073
-        },
-        {
-          "month": "1-2-2020",
-          "interest": 9629,
-          "principal": 37444,
-          "outstandingBal": 925483,
-          "emi": 47073
-        },
-        {
-          "month": "1-3-2020",
-          "interest": 9255,
-          "principal": 37818,
-          "outstandingBal": 887664,
-          "emi": 47073
-        },
-        {
-          "month": "1-4-2020",
-          "interest": 8877,
-          "principal": 38196,
-          "outstandingBal": 849467,
-          "emi": 47073
-        },
-        {
-          "month": "1-5-2020",
-          "interest": 8495,
-          "principal": 38578,
-          "outstandingBal": 810888,
-          "emi": 47073
-        },
-        {
-          "month": "1-6-2020",
-          "interest": 8109,
-          "principal": 38964,
-          "outstandingBal": 771923,
-          "emi": 47073
-        },
-        {
-          "month": "1-7-2020",
-          "interest": 7719,
-          "principal": 39354,
-          "outstandingBal": 732569,
-          "emi": 47073
-        },
-        {
-          "month": "1-8-2020",
-          "interest": 7326,
-          "principal": 39747,
-          "outstandingBal": 692821,
-          "emi": 47073
-        },
-        {
-          "month": "1-9-2020",
-          "interest": 6928,
-          "principal": 40145,
-          "outstandingBal": 652676,
-          "emi": 47073
-        },
-        {
-          "month": "1-10-2020",
-          "interest": 6527,
-          "principal": 40546,
-          "outstandingBal": 612129,
-          "emi": 47073
-        },
-        {
-          "month": "1-11-2020",
-          "interest": 6121,
-          "principal": 40952,
-          "outstandingBal": 571177,
-          "emi": 47073
-        },
-        {
-          "month": "1-12-2020",
-          "interest": 5712,
-          "principal": 41361,
-          "outstandingBal": 529815,
-          "emi": 47073
-        },
-        {
-          "month": "1-1-2021",
-          "interest": 5298,
-          "principal": 41775,
-          "outstandingBal": 488040,
-          "emi": 47073
-        },
-        {
-          "month": "1-2-2021",
-          "interest": 4880,
-          "principal": 42193,
-          "outstandingBal": 445847,
-          "emi": 47073
-        },
-        {
-          "month": "1-3-2021",
-          "interest": 4458,
-          "principal": 42615,
-          "outstandingBal": 403232,
-          "emi": 47073
-        },
-        {
-          "month": "1-4-2021",
-          "interest": 4032,
-          "principal": 43041,
-          "outstandingBal": 360191,
-          "emi": 47073
-        },
-        {
-          "month": "1-5-2021",
-          "interest": 3602,
-          "principal": 43471,
-          "outstandingBal": 316719,
-          "emi": 47073
-        },
-        {
-          "month": "1-6-2021",
-          "interest": 3167,
-          "principal": 43906,
-          "outstandingBal": 272813,
-          "emi": 47073
-        },
-        {
-          "month": "1-7-2021",
-          "interest": 2728,
-          "principal": 44345,
-          "outstandingBal": 228468,
-          "emi": 47073
-        },
-        {
-          "month": "1-8-2021",
-          "interest": 2285,
-          "principal": 44788,
-          "outstandingBal": 183679,
-          "emi": 47073
-        },
-        {
-          "month": "1-9-2021",
-          "interest": 1837,
-          "principal": 45236,
-          "outstandingBal": 138442,
-          "emi": 47073
-        },
-        {
-          "month": "1-10-2021",
-          "interest": 1384,
-          "principal": 45689,
-          "outstandingBal": 92753,
-          "emi": 47073
-        },
-        {
-          "month": "1-11-2021",
-          "interest": 928,
-          "principal": 46145,
-          "outstandingBal": 46607,
-          "emi": 47073
-        },
-        {
-          "month": "1-12-2021",
-          "interest": 466,
-          "principal": 46607,
-          "outstandingBal": 0,
-          "emi": 47073
-        }
-      ],
-      "emiScheduler": [
-        {
-          "month": "1-1-2020",
-          "interest": 10000,
-          "principal": 37073,
-          "outstandingBal": 962927,
-          "emi": 47073,
-          "paymentMode": "cheque",
-          "ctDate": "13-12-2019",
-          "paidEmi": 47073,
-          "balEmi": 0
-        },
-        {
-          "month": "1-2-2020",
-          "interest": 9629,
-          "principal": 37444,
-          "outstandingBal": 925483,
-          "emi": 47073,
-          "paymentMode": "NFFT",
-          "ctDate": "20-12-2019",
-          "paidEmi": 47073,
-          "balEmi": 0
-        },
-        {
-          "month": "1-3-2020",
-          "interest": 9255,
-          "principal": 37818,
-          "outstandingBal": 887664,
-          "emi": 47073,
-          "paymentMode": "NFFT",
-          "ctDate": "14-12-2019",
-          "paidEmi": 47073,
-          "balEmi": 0
-        },
-        {
-          "month": "1-4-2020",
-          "interest": 8877,
-          "principal": 38196,
-          "outstandingBal": 849467,
-          "emi": 47073,
-          "paymentMode": "NFFT",
-          "ctDate": "24-1-2020",
-          "paidEmi": "2000000",
-          "balEmi": -1952927,
-          "unpaidPen": -4003500.35
-        },
-        {
-          "month": "1-5-2020",
-          "interest": 8495,
-          "principal": 38578,
-          "outstandingBal": 810888,
-          "emi": 47073,
-          "paymentMode": "NFFT",
-          "ctDate": "29-12-2019",
-          "paidEmi": 47073,
-          "balEmi": 0
-        },
-        {
-          "month": "1-6-2020",
-          "interest": 0,
-          "principal": 47153,
-          "outstandingBal": 0,
-          "emi": 47153.3,
-          "paymentMode": "NFFT",
-          "ctDate": "27-12-2019",
-          "paidEmi": "47000",
-          "balEmi": 73
-        },
-        {
-          "month": "1-7-2020",
-          "interest": 7719,
-          "principal": 39354,
-          "outstandingBal": 732569,
-          "emi": 47073,
-          "paymentMode": "NFFT",
-          "ctDate": "10-7-2020",
-          "paidEmi": "45000",
-          "balEmi": 2073
-        },
-        {
-          "month": "1-8-2020",
-          "interest": 7326,
-          "principal": 39747,
-          "outstandingBal": 692821,
-          "emi": 47073,
-          "paymentMode": "NFFT",
-          "ctDate": "7-8-2020",
-          "paidEmi": "43000",
-          "balEmi": 4073
-        },
-        {
-          "month": "1-9-2020",
-          "interest": 6928,
-          "principal": 40145,
-          "outstandingBal": 652676,
-          "emi": 47073,
-          "paymentMode": "NFFT",
-          "ctDate": "10-9-2020",
-          "paidEmi": "42000",
-          "balEmi": 5073
-        },
-        {
-          "month": "1-10-2020",
-          "interest": 6527,
-          "principal": 40546,
-          "outstandingBal": 612129,
-          "emi": 47073,
-          "paymentMode": "IMPS",
-          "ctDate": "3-10-2020",
-          "paidEmi": "47020",
-          "balEmi": 53
-        },
-        {
-          "month": "1-11-2020",
-          "interest": 6121,
-          "principal": 40952,
-          "outstandingBal": 571177,
-          "emi": 47073,
-          "paymentMode": "cash",
-          "ctDate": "6-11-2020",
-          "paidEmi": "43000",
-          "balEmi": 4073
-        },
-        {
-          "month": "1-12-2020",
-          "interest": 5712,
-          "principal": 41361,
-          "outstandingBal": 529815,
-          "emi": 47073,
-          "paymentMode": "NFFT",
-          "ctDate": "10-12-2020",
-          "paidEmi": "45000",
-          "balEmi": 2073
-        },
-        {
-          "month": "1-1-2021",
-          "interest": 5298,
-          "principal": 41775,
-          "outstandingBal": 488040,
-          "emi": 47073,
-          "paymentMode": "NFFT",
-          "ctDate": "10-1-2021",
-          "paidEmi": "45000",
-          "balEmi": 2073
-        },
-        {
-          "month": "1-2-2021",
-          "interest": 4880,
-          "principal": 42193,
-          "outstandingBal": 445847,
-          "emi": 47073,
-          "paymentMode": "NFFT",
-          "ctDate": "5-2-2020",
-          "paidEmi": "40000",
-          "balEmi": 7073
-        },
-        {
-          "month": "1-3-2021",
-          "interest": 4458,
-          "principal": 42615,
-          "outstandingBal": 403232,
-          "emi": 47073,
-          "paymentMode": "NFFT",
-          "ctDate": "5-3-2020",
-          "paidEmi": "47000",
-          "balEmi": 73
-        },
-        {
-          "month": "1-4-2021",
-          "interest": 4032,
-          "principal": 43041,
-          "outstandingBal": 360191,
-          "emi": 47073,
-          "paymentMode": "NFFT",
-          "ctDate": "10-4-2020",
-          "paidEmi": "44000",
-          "balEmi": 3073
-        },
-        {
-          "month": "1-5-2021",
-          "interest": 3602,
-          "principal": 43471,
-          "outstandingBal": 316719,
-          "emi": 47073,
-          "paymentMode": "NFFT",
-          "ctDate": "15-2-2020",
-          "paidEmi": 47073,
-          "balEmi": 0
-        },
-        {
-          "month": "1-6-2021",
-          "interest": 3167,
-          "principal": 43906,
-          "outstandingBal": 272813,
-          "emi": 47073,
-          "paymentMode": "NFFT",
-          "ctDate": "27-12-2019",
-          "paidEmi": "47060",
-          "balEmi": 13
-        },
-        {
-          "month": "1-7-2021",
-          "interest": 2728,
-          "principal": 44345,
-          "outstandingBal": 228468,
-          "emi": 47073,
-          "paymentMode": "NFFT",
-          "ctDate": "29-12-2019",
-          "paidEmi": "43000",
-          "balEmi": 4073
-        },
-        {
-          "month": "1-8-2021",
-          "interest": 2285,
-          "principal": 44788,
-          "outstandingBal": 183679,
-          "emi": 47073,
-          "paymentMode": "NFFT",
-          "ctDate": "29-12-2019",
-          "paidEmi": "45000",
-          "balEmi": 2073,
-          "unpaidPen": 2176.65
-        },
-        {
-          "month": "1-9-2021",
-          "interest": 1837,
-          "principal": 45236,
-          "outstandingBal": 138442,
-          "emi": 47073,
-          "paymentMode": "NFFT",
-          "ctDate": "4-1-2020",
-          "paidEmi": "45000",
-          "balEmi": 2073,
-          "unpaidPen": 4353.3
-        },
-        {
-          "month": "1-10-2021",
-          "interest": 1384,
-          "principal": 45689,
-          "outstandingBal": 92753,
-          "emi": 47073,
-          "paymentMode": "NFFT",
-          "ctDate": "28-12-2019",
-          "paidEmi": "47000",
-          "balEmi": 73,
-          "unpaidPen": 4429.95
-        },
-        {
-          "month": "1-11-2021",
-          "interest": 928,
-          "principal": 46145,
-          "outstandingBal": 46607,
-          "emi": 47073,
-          "paymentMode": "cheque",
-          "ctDate": "21-12-2019",
-          "paidEmi": "51000",
-          "balEmi": -3927,
-          "unpaidPen": -3620.4000000000005
-        },
-        {
-          "month": "1-12-2021",
-          "interest": 466,
-          "principal": 46607,
-          "outstandingBal": 0,
-          "emi": 47073,
-          "paymentMode": "cheque",
-          "ctDate": "31-1-2020",
-          "paidEmi": "30000",
-          "balEmi": 17073,
-          "unpaidPen": 14306.25
-        }
-      ]
-    },
-    {
-      "user": {
-        "fname": "Sathish",
-        "lname": "S",
-        "faName": "S",
-        "age": "1995-12-20",
-        "mobileNo": "976543231",
-        "emailId": "gg@g.com",
-        "gender": "Male",
-        "panNo": "34567ygh",
-        "AadharNo": "45678uyfg",
-        "occupation": "Salried",
-        "company:": "www",
-        "Address": {
-          "currentAddress": {
-            "line1": "15 2 kuilan Thoppu 1st Street,",
-            "line2": "karungal palayam,",
-            "city": " Erode",
-            "state": "Tamil Nadu",
-            "country": "India"
-          },
-          "permanentAddress": {}
-        }
-      },
-      "annualIncome": "20000",
-      "financial": [
-        {
-          "bankName": "www",
-          "liabilityType": "property Morgaged",
-          "AssetValue": "100000",
-          "AssetTenure": "20"
-        }
-      ],
-      "expLoans": {
-        "principle": "1000000",
-        "tenure": "24",
-        "intrest": "12",
-        "propertyType": "property against",
-        "startDate": "2020-02-01",
-        "radio": "fixed"
-      },
-      "totalProperty": [
-        {
-          "propertyType": "property against",
-          "assestValue": "500000",
-          "file1": {
-            "name": "addProperty.png",
-            "size": 241587,
-            "type": "image/png"
-          },
-          "file2": {
-            "name": "Final Appliances catalog-2016-17.PDF",
-            "size": 965077,
-            "type": "application/pdf"
-          },
-          "file3": {
-            "name": "NDA - Offshore (1).pdf",
-            "size": 110318,
-            "type": "application/pdf"
-          }
-        }
-      ],
-      "id": "Req00006",
-      "status": "Approved",
-      "totalEmi": [
-        {
-          "month": "1-2-2020",
-          "interest": 10000,
-          "principal": 37073,
-          "outstandingBal": 962927,
-          "emi": 47073
-        },
-        {
-          "month": "1-3-2020",
-          "interest": 9629,
-          "principal": 37444,
-          "outstandingBal": 925483,
-          "emi": 47073
-        },
-        {
-          "month": "1-4-2020",
-          "interest": 9255,
-          "principal": 37818,
-          "outstandingBal": 887664,
-          "emi": 47073
-        },
-        {
-          "month": "1-5-2020",
-          "interest": 8877,
-          "principal": 38196,
-          "outstandingBal": 849467,
-          "emi": 47073
-        },
-        {
-          "month": "1-6-2020",
-          "interest": 8495,
-          "principal": 38578,
-          "outstandingBal": 810888,
-          "emi": 47073
-        },
-        {
-          "month": "1-7-2020",
-          "interest": 8109,
-          "principal": 38964,
-          "outstandingBal": 771923,
-          "emi": 47073
-        },
-        {
-          "month": "1-8-2020",
-          "interest": 7719,
-          "principal": 39354,
-          "outstandingBal": 732569,
-          "emi": 47073
-        },
-        {
-          "month": "1-9-2020",
-          "interest": 7326,
-          "principal": 39747,
-          "outstandingBal": 692821,
-          "emi": 47073
-        },
-        {
-          "month": "1-10-2020",
-          "interest": 6928,
-          "principal": 40145,
-          "outstandingBal": 652676,
-          "emi": 47073
-        },
-        {
-          "month": "1-11-2020",
-          "interest": 6527,
-          "principal": 40546,
-          "outstandingBal": 612129,
-          "emi": 47073
-        },
-        {
-          "month": "1-12-2020",
-          "interest": 6121,
-          "principal": 40952,
-          "outstandingBal": 571177,
-          "emi": 47073
-        },
-        {
-          "month": "1-1-2021",
-          "interest": 5712,
-          "principal": 41361,
-          "outstandingBal": 529815,
-          "emi": 47073
-        },
-        {
-          "month": "1-2-2021",
-          "interest": 5298,
-          "principal": 41775,
-          "outstandingBal": 488040,
-          "emi": 47073
-        },
-        {
-          "month": "1-3-2021",
-          "interest": 4880,
-          "principal": 42193,
-          "outstandingBal": 445847,
-          "emi": 47073
-        },
-        {
-          "month": "1-4-2021",
-          "interest": 4458,
-          "principal": 42615,
-          "outstandingBal": 403232,
-          "emi": 47073
-        },
-        {
-          "month": "1-5-2021",
-          "interest": 4032,
-          "principal": 43041,
-          "outstandingBal": 360191,
-          "emi": 47073
-        },
-        {
-          "month": "1-6-2021",
-          "interest": 3602,
-          "principal": 43471,
-          "outstandingBal": 316719,
-          "emi": 47073
-        },
-        {
-          "month": "1-7-2021",
-          "interest": 3167,
-          "principal": 43906,
-          "outstandingBal": 272813,
-          "emi": 47073
-        },
-        {
-          "month": "1-8-2021",
-          "interest": 2728,
-          "principal": 44345,
-          "outstandingBal": 228468,
-          "emi": 47073
-        },
-        {
-          "month": "1-9-2021",
-          "interest": 2285,
-          "principal": 44788,
-          "outstandingBal": 183679,
-          "emi": 47073
-        },
-        {
-          "month": "1-10-2021",
-          "interest": 1837,
-          "principal": 45236,
-          "outstandingBal": 138442,
-          "emi": 47073
-        },
-        {
-          "month": "1-11-2021",
-          "interest": 1384,
-          "principal": 45689,
-          "outstandingBal": 92753,
-          "emi": 47073
-        },
-        {
-          "month": "1-12-2021",
-          "interest": 928,
-          "principal": 46145,
-          "outstandingBal": 46607,
-          "emi": 47073
-        },
-        {
-          "month": "1-1-2022",
-          "interest": 466,
-          "principal": 46607,
-          "outstandingBal": 0,
-          "emi": 47073
-        }
-      ]
-    },
-    {
-      "user": {
-        "fname": "Sundaresan",
-        "lname": "V",
-        "faName": "Venugopal",
-        "age": "1995-05-26",
-        "mobileNo": "09865089625",
-        "emailId": "sundargopal26@gmail.com",
-        "gender": "Male",
-        "panNo:": "1234567890",
-        "AadharNo": "123456789",
-        "occupation": "Salried",
-        "company:": "Wipro",
-        "Address": {
-          "currentAddress": {
-            "line1": "15 2 kuilan Thoppu 1st Street,",
-            "line2": "karungal palayam,",
-            "city": "e",
-            "state": "T",
-            "country": "India"
-          },
-          "permanentAddress": {}
-        },
-        "address": {
-          "currentAddress": {
-            "line1": "15 2 kuilan Thoppu 1st Street,",
-            "line2": "karungal palayam,",
-            "city": "e",
-            "state": "T",
-            "country": "India"
-          },
-          "permanentAddress": {}
-        },
-        "panNo": "144"
-      },
-      "annualIncome": "121313",
-      "financial": [
-        {
-          "bankName": "Kotak",
-          "liabilityType": "property Morgaged",
-          "AssetValue": "25000",
-          "AssetTenure": "5"
-        }
-      ],
-      "expLoans": {
-        "principle": "300000",
-        "tenure": "24",
-        "interest": "11",
-        "startDate": "2020-02-01",
-        "propertyType": "Gold",
-        "radio": ""
-      },
-      "totalProperty": [],
-      "id": "Req00007",
-      "status": "Approved"
-    },
-    {
-      "user": {
-        "fname": "Pankush",
-        "lname": "Manchanda",
-        "faName": "Rajender Kumar",
-        "age": "2020-01-24",
-        "mobileNo": "8951216048",
-        "emailId": "manchandapankush@gmail.com",
-        "gender": "Male",
-        "panNo": "9823444",
-        "AadharNo": "0987711",
-        "occupation": "Self Employee",
-        "company:": "Wipro",
-        "Address": {
-          "currentAddress": {
-            "line1": "562",
-            "line2": "Neeladri NAger",
-            "landmark": "EC",
-            "city": "Bengaluru",
-            "state": "Karnataka",
-            "country": "India"
-          },
-          "permanentAddress": {}
-        },
-        "address": {
-          "currentAddress": {
-            "line1": "562",
-            "line2": "Neeladri NAger",
-            "landmark": "EC",
-            "city": "Bengaluru",
-            "state": "Karnataka",
-            "country": "India"
-          },
-          "permanentAddress": {}
-        }
-      },
-      "annualIncome": "400000",
-      "financial": [],
-      "expLoans": {
-        "principle": "12345",
-        "tenure": "12",
-        "intrest": "12",
-        "propertyType": "Gold",
-        "startDate": "2020-01-24",
-        "radio": "fixed"
-      },
-      "totalProperty": [],
-      "status": "Approved",
-      "id": "Req00008"
-    },
-    {
-      "user": {
-        "age": "2020-01-23",
-        "fname": "Pankush",
-        "lname": "erferg",
-        "faName": "ergerg",
-        "mobileNo": "4234234234",
-        "emailId": "fvdfbdfbv",
-        "gender": "Male",
-        "panNo": "121111111",
-        "AadharNo": "23424234",
-        "occupation": "Self Employee",
-        "company:": "sdsfg",
-        "Address": {
-          "currentAddress": {
-            "line1": "fgsgsdg",
-            "line2": "sdgsgsgd",
-            "landmark": "ssgg",
-            "city": "sgsgg",
-            "state": "sgsgd",
-            "country": "sdgsgs"
-          },
-          "permanentAddress": {}
-        },
-        "address": {
-          "currentAddress": {
-            "line1": "fgsgsdg",
-            "line2": "sdgsgsgd",
-            "landmark": "ssgg",
-            "city": "sgsgg",
-            "state": "sgsgd",
-            "country": "sdgsgs"
-          },
-          "permanentAddress": {}
-        }
-      },
-      "annualIncome": "122333",
-      "financial": [
-        {
-          "bankName": "ICICI",
-          "liabilityType": "Gold loan",
-          "AssetValue": "123",
-          "AssetTenure": "12"
-        }
-      ],
-      "expLoans": {
-        "principle": "12234",
-        "tenure": "11",
-        "intrest": 8.5,
-        "propertyType": "property against",
-        "startDate": "2020-01-24",
-        "radio": ""
-      },
-      "totalProperty": [
-        {
-          "propertyType": "Gold loan",
-          "assestValue": "1111",
-          "file1": {
-            "lastModified": 1580462242117,
-            "lastModifiedDate": "2020-01-31T09:17:22.117Z",
-            "name": "2_20060522 (1).pdf",
-            "size": 1359280,
-            "type": "application/pdf"
-          },
-          "file2": {
-            "lastModified": 1578997802176,
-            "lastModifiedDate": "2020-01-14T10:30:02.176Z",
-            "name": "BRP+Location.docx",
-            "size": 21065,
-            "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
-          }
-        },
-        {
-          "propertyType": "property against",
-          "assestValue": "11344",
-          "file1": {
-            "lastModified": 1580299332664,
-            "lastModifiedDate": "2020-01-29T12:02:12.664Z",
-            "name": "20060522_ITProjection_2019-2020.xls",
-            "size": 75776,
-            "type": "application/vnd.ms-excel"
-          },
-          "file2": {
-            "lastModified": 1580464108124,
-            "lastModifiedDate": "2020-01-31T09:48:28.124Z",
-            "name": "courier charge.pdf",
-            "size": 1003718,
-            "type": "application/pdf"
-          }
-        }
-      ],
-      "status": "Other",
-      "id": "Req00009",
-      "totalEmi": [
-        {
-          "month": "24-1-2020",
-          "interest": 87,
-          "principal": 1073,
-          "outstandingBal": 11160,
-          "emi": 1160
-        },
-        {
-          "month": "24-2-2020",
-          "interest": 79,
-          "principal": 1081,
-          "outstandingBal": 10079,
-          "emi": 1160
-        },
-        {
-          "month": "24-3-2020",
-          "interest": 71,
-          "principal": 1089,
-          "outstandingBal": 8990,
-          "emi": 1160
-        },
-        {
-          "month": "24-4-2020",
-          "interest": 64,
-          "principal": 1096,
-          "outstandingBal": 7893,
-          "emi": 1160
-        },
-        {
-          "month": "24-5-2020",
-          "interest": 56,
-          "principal": 1104,
-          "outstandingBal": 6788,
-          "emi": 1160
-        },
-        {
-          "month": "24-6-2020",
-          "interest": 48,
-          "principal": 1112,
-          "outstandingBal": 5676,
-          "emi": 1160
-        },
-        {
-          "month": "24-7-2020",
-          "interest": 40,
-          "principal": 1120,
-          "outstandingBal": 4556,
-          "emi": 1160
-        },
-        {
-          "month": "24-8-2020",
-          "interest": 32,
-          "principal": 1128,
-          "outstandingBal": 3428,
-          "emi": 1160
-        },
-        {
-          "month": "24-9-2020",
-          "interest": 24,
-          "principal": 1136,
-          "outstandingBal": 2292,
-          "emi": 1160
-        },
-        {
-          "month": "24-10-2020",
-          "interest": 16,
-          "principal": 1144,
-          "outstandingBal": 1148,
-          "emi": 1160
-        },
-        {
-          "month": "24-11-2020",
-          "interest": 8,
-          "principal": 1152,
-          "outstandingBal": 0,
-          "emi": 1160
-        }
-      ],
-      "emiScheduler": [
-        {
-          "month": "24-1-2020",
-          "interest": 87,
-          "principal": 1073,
-          "outstandingBal": 11160,
-          "emi": 1160,
-          "paymentMode": "cash",
-          "ctDate": "20-2-2020",
-          "paidEmi": "78",
-          "balEmi": 1082,
-          "unpaidPen": 1136.1
-        },
-        {
-          "month": "24-2-2020",
-          "interest": 79,
-          "principal": 1081,
-          "outstandingBal": 10079,
-          "emi": 1160
-        },
-        {
-          "month": "24-3-2020",
-          "interest": 71,
-          "principal": 1089,
-          "outstandingBal": 8990,
-          "emi": 1160
-        },
-        {
-          "month": "24-4-2020",
-          "interest": 64,
-          "principal": 1096,
-          "outstandingBal": 7893,
-          "emi": 1160
-        },
-        {
-          "month": "24-5-2020",
-          "interest": 56,
-          "principal": 1104,
-          "outstandingBal": 6788,
-          "emi": 1160
-        },
-        {
-          "month": "24-6-2020",
-          "interest": 48,
-          "principal": 1112,
-          "outstandingBal": 5676,
-          "emi": 1160
-        },
-        {
-          "month": "24-7-2020",
-          "interest": 40,
-          "principal": 1120,
-          "outstandingBal": 4556,
-          "emi": 1160
-        },
-        {
-          "month": "24-8-2020",
-          "interest": 32,
-          "principal": 1128,
-          "outstandingBal": 3428,
-          "emi": 1160
-        },
-        {
-          "month": "24-9-2020",
-          "interest": 24,
-          "principal": 1136,
-          "outstandingBal": 2292,
-          "emi": 1160
-        },
-        {
-          "month": "24-10-2020",
-          "interest": 16,
-          "principal": 1144,
-          "outstandingBal": 1148,
-          "emi": 1160
-        },
-        {
-          "month": "24-11-2020",
-          "interest": 8,
-          "principal": 1152,
-          "outstandingBal": 0,
-          "emi": 1160,
-          "paidEmi": 1160,
-          "balEmi": 0
-        }
-      ]
-    },
-    {
-      "user": {
-        "fname": "efe",
-        "lname": "fefe",
-        "faName": "ef",
-        "age": "2020-02-12",
-        "mobileNo": "3434",
-        "emailId": "shilpa.khanna0611@gmail.com",
-        "AadharNo": "3434",
-        "panNo": "333",
-        "gender": "Male",
-        "occupation": "Self Employee",
-        "company:": "rgrg",
-        "Address": {
-          "currentAddress": {
-            "line1": "efegef",
-            "state": "efef",
-            "country": "efef",
-            "city": "efef",
-            "line2": "dwwd",
-            "landmark": "wdwd"
-          },
-          "permanentAddress": {}
-        }
-      },
-      "annualIncome": "4242",
-      "financial": [],
-      "expLoans": {
-        "principle": "23232",
-        "tenure": "2323",
-        "intrest": "646456",
-        "propertyType": "Gold",
-        "startDate": "2020-02-27",
-        "radio": ""
-      },
-      "totalProperty": [
-        {
-          "propertyType": "Gold loan",
-          "assestValue": "e2e",
-          "file1": {
-            "lastModified": 1580214733921,
-            "lastModifiedDate": "2020-01-28T12:32:13.921Z",
-            "name": "desktop-solid.svg",
-            "size": 462,
-            "type": "image/svg+xml"
-          }
-        }
-      ],
-      "id": "Req00010",
-      "status": "Pending"
-    },
-    {
-      "user": {
-        "fname": "j",
-        "lname": "j",
-        "faName": "j",
-        "age": "2020-03-05",
-        "mobileNo": "122",
-        "emailId": "shilpa.khanna0611@gmail.com",
-        "AadharNo": "11121212",
-        "gender": "Male",
-        "panNo": "1313",
-        "occupation": "Self Employee",
-        "company:": "wrw",
-        "Address": {
-          "currentAddress": {
-            "line1": "qeqe",
-            "line2": "ewewe",
-            "city": "wewe",
-            "state": "wewe",
-            "country": "ewewe"
-          },
-          "permanentAddress": {}
-        }
-      },
-      "annualIncome": "1212",
-      "financial": [],
-      "expLoans": {
-        "propertyType": "car",
-        "intrest": "8.5",
-        "principle": "647858",
-        "tenure": "6",
-        "startDate": "2020-04-16",
-        "radio": "flexible"
-      },
-      "totalProperty": [],
-      "id": "Req00011",
-      "status": "Pending"
-    },
-    {
-      "user": {
         "fname": "Sumit",
         "lname": "Das",
         "faName": "Arijit Das",
@@ -1915,70 +12,7 @@
         "panNo": "ZERUO56565",
         "AadharNo": "1883355563",
         "occupation": "Self Employee",
-        "company:": "Wipro",
-        "Address": {
-          "currentAddress": {
-            "line1": "Whitefield",
-            "city": "Bangalore",
-            "state": "Karnataka",
-            "country": "India"
-          },
-          "permanentAddress": {}
-        }
-      },
-      "annualIncome": "1000000",
-      "financial": [],
-      "expLoans": {
-        "principle": "2000000",
-        "tenure": "15",
-        "propertyType": "Gold",
-        "intrest": "8.5",
-        "startDate": "2020-04-01",
-        "radio": "flexible"
-      },
-      "totalProperty": [
-        {
-          "propertyType": "Gold loan",
-          "assestValue": "20000",
-          "file1": {
-            "lastModified": 1583774586861,
-            "lastModifiedDate": "2020-03-09T17:23:06.861Z",
-            "name": "desktop-solid (1).svg",
-            "size": 462,
-            "type": "image/svg+xml"
-          },
-          "file2": {
-            "lastModified": 1580218706158,
-            "lastModifiedDate": "2020-01-28T13:38:26.158Z",
-            "name": "envelope-solid.svg",
-            "size": 700,
-            "type": "image/svg+xml"
-          },
-          "file3": {
-            "lastModified": 1580216115058,
-            "lastModifiedDate": "2020-01-28T12:55:15.058Z",
-            "name": "location-arrow-solid.svg",
-            "size": 406,
-            "type": "image/svg+xml"
-          }
-        }
-      ],
-      "id": "Req00012",
-      "status": "Pending"
-    },
-    {
-      "user": {
-        "fname": "Sumit",
-        "lname": "Das",
-        "faName": "Arijit",
-        "age": "1995-06-14",
-        "mobileNo": "9884342567",
-        "emailId": "test@gmail.com",
-        "gender": "Male",
-        "panNo": "ZERUO56565",
-        "AadharNo": "1883355563",
-        "occupation": "Self Employee",
-        "company:": "Wipro",
+        "company": "Wipro",
         "Address": {
           "currentAddress": {
             "line1": "Whitefield",
@@ -2035,113 +69,362 @@
           }
         }
       ],
-      "id": "Req00013",
       "status": "Pending",
       "totalEmi": [
         {
-          "month": "1-4-2020",
+          "month": "01-04-2020",
           "interest": 14167,
           "principal": 126846,
           "outstandingBal": 1873153,
           "emi": 141013
         },
         {
-          "month": "1-5-2020",
+          "month": "01-05-2020",
           "interest": 13268,
           "principal": 127745,
           "outstandingBal": 1745408,
           "emi": 141013
         },
         {
-          "month": "1-6-2020",
+          "month": "01-06-2020",
           "interest": 12363,
           "principal": 128650,
           "outstandingBal": 1616758,
           "emi": 141013
         },
         {
-          "month": "1-7-2020",
+          "month": "01-07-2020",
           "interest": 11452,
           "principal": 129561,
           "outstandingBal": 1487197,
           "emi": 141013
         },
         {
-          "month": "1-8-2020",
+          "month": "01-08-2020",
           "interest": 10534,
           "principal": 130479,
           "outstandingBal": 1356718,
           "emi": 141013
         },
         {
-          "month": "1-9-2020",
+          "month": "01-09-2020",
           "interest": 9610,
           "principal": 131403,
           "outstandingBal": 1225315,
           "emi": 141013
         },
         {
-          "month": "1-10-2020",
+          "month": "01-10-2020",
           "interest": 8679,
           "principal": 132334,
           "outstandingBal": 1092981,
           "emi": 141013
         },
         {
-          "month": "1-11-2020",
+          "month": "01-11-2020",
           "interest": 7742,
           "principal": 133271,
           "outstandingBal": 959709,
           "emi": 141013
         },
         {
-          "month": "1-12-2020",
+          "month": "01-12-2020",
           "interest": 6798,
           "principal": 134215,
           "outstandingBal": 825493,
           "emi": 141013
         },
         {
-          "month": "1-1-2021",
+          "month": "01-01-2021",
           "interest": 5847,
           "principal": 135166,
           "outstandingBal": 690327,
           "emi": 141013
         },
         {
-          "month": "1-2-2021",
+          "month": "01-02-2021",
           "interest": 4890,
           "principal": 136123,
           "outstandingBal": 554203,
           "emi": 141013
         },
         {
-          "month": "1-3-2021",
+          "month": "01-03-2021",
           "interest": 3926,
           "principal": 137087,
           "outstandingBal": 417115,
           "emi": 141013
         },
         {
-          "month": "1-4-2021",
+          "month": "01-04-2021",
           "interest": 2955,
           "principal": 138058,
           "outstandingBal": 279056,
           "emi": 141013
         },
         {
-          "month": "1-5-2021",
+          "month": "01-05-2021",
           "interest": 1977,
           "principal": 139036,
           "outstandingBal": 140019,
           "emi": 141013
         },
         {
-          "month": "1-6-2021",
+          "month": "01-06-2021",
           "interest": 992,
           "principal": 140021,
           "outstandingBal": 0,
           "emi": 141013
+        }
+      ],
+      "id": "Req00012",
+      "emiScheduler": [
+        {
+          "month": "01-04-2020",
+          "interest": 14167,
+          "principal": 126846,
+          "outstandingBal": 1873153,
+          "emi": 141013,
+          "paymentMode": "cash",
+          "ctDate": "11-3-2020",
+          "paidEmi": 141013,
+          "balEmi": 0
+        },
+        {
+          "month": "01-05-2020",
+          "interest": 13268,
+          "principal": 127745,
+          "outstandingBal": 1745408,
+          "emi": 141013,
+          "paymentMode": "cheque",
+          "ctDate": "12-3-2020",
+          "paidEmi": 141013,
+          "balEmi": 0
+        },
+        {
+          "month": "01-06-2020",
+          "interest": 12363,
+          "principal": 128650,
+          "outstandingBal": 1616758,
+          "emi": 141013
+        },
+        {
+          "month": "01-07-2020",
+          "interest": 11452,
+          "principal": 129561,
+          "outstandingBal": 1487197,
+          "emi": 141013
+        },
+        {
+          "month": "01-08-2020",
+          "interest": 10534,
+          "principal": 130479,
+          "outstandingBal": 1356718,
+          "emi": 141013
+        },
+        {
+          "month": "01-09-2020",
+          "interest": 9610,
+          "principal": 131403,
+          "outstandingBal": 1225315,
+          "emi": 141013
+        },
+        {
+          "month": "01-10-2020",
+          "interest": 8679,
+          "principal": 132334,
+          "outstandingBal": 1092981,
+          "emi": 141013
+        },
+        {
+          "month": "01-11-2020",
+          "interest": 7742,
+          "principal": 133271,
+          "outstandingBal": 959709,
+          "emi": 141013
+        },
+        {
+          "month": "01-12-2020",
+          "interest": 6798,
+          "principal": 134215,
+          "outstandingBal": 825493,
+          "emi": 141013
+        },
+        {
+          "month": "01-01-2021",
+          "interest": 5847,
+          "principal": 135166,
+          "outstandingBal": 690327,
+          "emi": 141013
+        },
+        {
+          "month": "01-02-2021",
+          "interest": 4890,
+          "principal": 136123,
+          "outstandingBal": 554203,
+          "emi": 141013
+        },
+        {
+          "month": "01-03-2021",
+          "interest": 3926,
+          "principal": 137087,
+          "outstandingBal": 417115,
+          "emi": 141013
+        },
+        {
+          "month": "01-04-2021",
+          "interest": 2955,
+          "principal": 138058,
+          "outstandingBal": 279056,
+          "emi": 141013
+        },
+        {
+          "month": "01-05-2021",
+          "interest": 1977,
+          "principal": 139036,
+          "outstandingBal": 140019,
+          "emi": 141013
+        },
+        {
+          "month": "01-06-2021",
+          "interest": 992,
+          "principal": 140021,
+          "outstandingBal": 0,
+          "emi": 141013
+        }
+      ]
+    },
+    {
+      "user": {
+        "fname": "Sanju",
+        "lname": "Das",
+        "faName": "Dell",
+        "age": "2020-03-05",
+        "mobileNo": "1231",
+        "emailId": "shilpa.khanna0611@gmail.com",
+        "gender": "female",
+        "panNo": "665465",
+        "AadharNo": "21212",
+        "occupation": "Self Employee",
+        "Address": {
+          "currentAddress": {
+            "line1": "jhkjhkjh",
+            "line2": "hjhj",
+            "landmark": "jhjh",
+            "city": "jhj",
+            "state": "hjhj",
+            "country": "hjhj"
+          },
+          "permanentAddress": {}
+        }
+      },
+      "annualIncome": "2999",
+      "financial": [],
+      "expLoans": {
+        "principle": "20000",
+        "tenure": "6",
+        "propertyType": "car",
+        "intrest": "8.8",
+        "startDate": "2020-03-26",
+        "radio": "flexible"
+      },
+      "totalProperty": [],
+      "id": "Req00002",
+      "status": "Pending",
+      "totalEmi": [
+        {
+          "month": "26-3-2020",
+          "interest": 147,
+          "principal": 3272,
+          "outstandingBal": 16727,
+          "emi": 3419,
+          "paymentMode": "cash",
+          "ctDate": "12-3-2020",
+          "paidEmi": 3419,
+          "balEmi": 0
+        },
+        {
+          "month": "26-4-2020",
+          "interest": 123,
+          "principal": 3296,
+          "outstandingBal": 13430,
+          "emi": 3419
+        },
+        {
+          "month": "26-5-2020",
+          "interest": 98,
+          "principal": 3321,
+          "outstandingBal": 10109,
+          "emi": 3419
+        },
+        {
+          "month": "26-6-2020",
+          "interest": 74,
+          "principal": 3345,
+          "outstandingBal": 6764,
+          "emi": 3419
+        },
+        {
+          "month": "26-7-2020",
+          "interest": 50,
+          "principal": 3369,
+          "outstandingBal": 3394,
+          "emi": 3419
+        },
+        {
+          "month": "26-8-2020",
+          "interest": 25,
+          "principal": 3394,
+          "outstandingBal": 0,
+          "emi": 3419
+        }
+      ],
+      "emiScheduler": [
+        {
+          "month": "26-3-2020",
+          "interest": 147,
+          "principal": 3272,
+          "outstandingBal": 16727,
+          "emi": 3419,
+          "paymentMode": "cash",
+          "ctDate": "12-3-2020",
+          "paidEmi": 3419,
+          "balEmi": 0
+        },
+        {
+          "month": "26-4-2020",
+          "interest": 123,
+          "principal": 3296,
+          "outstandingBal": 13430,
+          "emi": 3419
+        },
+        {
+          "month": "26-5-2020",
+          "interest": 98,
+          "principal": 3321,
+          "outstandingBal": 10109,
+          "emi": 3419
+        },
+        {
+          "month": "26-6-2020",
+          "interest": 74,
+          "principal": 3345,
+          "outstandingBal": 6764,
+          "emi": 3419
+        },
+        {
+          "month": "26-7-2020",
+          "interest": 50,
+          "principal": 3369,
+          "outstandingBal": 3394,
+          "emi": 3419
+        },
+        {
+          "month": "26-8-2020",
+          "interest": 25,
+          "principal": 3394,
+          "outstandingBal": 0,
+          "emi": 3419
         }
       ]
     }
@@ -2175,7 +458,7 @@
     },
     {
       "username": "Test2",
-      "userrole": "Authorizer",
+      "userrole": "User",
       "id": 3
     },
     {
@@ -2184,9 +467,19 @@
       "id": 4
     },
     {
-      "username": "Test4",
+      "username": "Joydeep",
+      "userrole": "Authorizer",
+      "id": 6
+    },
+    {
+      "username": "Laavanya",
+      "userrole": "Authorizer",
+      "id": 7
+    },
+    {
+      "username": "User1",
       "userrole": "User",
-      "id": 5
+      "id": 8
     }
   ]
 }
