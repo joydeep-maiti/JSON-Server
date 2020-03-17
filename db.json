@@ -333,7 +333,7 @@
       "status": "Pending",
       "totalEmi": [
         {
-          "month": "26-3-2020",
+          "month": "26-03-2020",
           "interest": 147,
           "principal": 3272,
           "outstandingBal": 16727,
@@ -344,35 +344,35 @@
           "balEmi": 0
         },
         {
-          "month": "26-4-2020",
+          "month": "26-04-2020",
           "interest": 123,
           "principal": 3296,
           "outstandingBal": 13430,
           "emi": 3419
         },
         {
-          "month": "26-5-2020",
+          "month": "26-05-2020",
           "interest": 98,
           "principal": 3321,
           "outstandingBal": 10109,
           "emi": 3419
         },
         {
-          "month": "26-6-2020",
+          "month": "26-06-2020",
           "interest": 74,
           "principal": 3345,
           "outstandingBal": 6764,
           "emi": 3419
         },
         {
-          "month": "26-7-2020",
+          "month": "26-07-2020",
           "interest": 50,
           "principal": 3369,
           "outstandingBal": 3394,
           "emi": 3419
         },
         {
-          "month": "26-8-2020",
+          "month": "26-08-2020",
           "interest": 25,
           "principal": 3394,
           "outstandingBal": 0,
@@ -381,7 +381,7 @@
       ],
       "emiScheduler": [
         {
-          "month": "26-3-2020",
+          "month": "26-03-2020",
           "interest": 147,
           "principal": 3272,
           "outstandingBal": 16727,
@@ -392,35 +392,35 @@
           "balEmi": 0
         },
         {
-          "month": "26-4-2020",
+          "month": "26-04-2020",
           "interest": 123,
           "principal": 3296,
           "outstandingBal": 13430,
           "emi": 3419
         },
         {
-          "month": "26-5-2020",
+          "month": "26-05-2020",
           "interest": 98,
           "principal": 3321,
           "outstandingBal": 10109,
           "emi": 3419
         },
         {
-          "month": "26-6-2020",
+          "month": "26-06-2020",
           "interest": 74,
           "principal": 3345,
           "outstandingBal": 6764,
           "emi": 3419
         },
         {
-          "month": "26-7-2020",
+          "month": "26-07-2020",
           "interest": 50,
           "principal": 3369,
           "outstandingBal": 3394,
           "emi": 3419
         },
         {
-          "month": "26-8-2020",
+          "month": "26-08-2020",
           "interest": 25,
           "principal": 3394,
           "outstandingBal": 0,
