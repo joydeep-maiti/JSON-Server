@@ -44,7 +44,7 @@
       },
       "totalProperty": [
         {
-          "propertyType": "Gold loan",
+          "propertyType": "Gold",
           "assestValue": "20000",
           "file1": {
             "lastModified": 1583774586861,
@@ -186,7 +186,7 @@
           "outstandingBal": 1873153,
           "emi": 141013,
           "paymentMode": "cash",
-          "ctDate": "11-3-2020",
+          "ctDate": "11-03-2020",
           "paidEmi": 141013,
           "balEmi": 0
         },
@@ -197,7 +197,7 @@
           "outstandingBal": 1745408,
           "emi": 141013,
           "paymentMode": "cheque",
-          "ctDate": "12-3-2020",
+          "ctDate": "12-03-2020",
           "paidEmi": 141013,
           "balEmi": 0
         },
@@ -206,7 +206,11 @@
           "interest": 12363,
           "principal": 128650,
           "outstandingBal": 1616758,
-          "emi": 141013
+          "emi": 141013,
+          "paymentMode": "NFFT",
+          "paymentRefNo": "ABX6785T08TYH",
+          "paidEmi": 141013,
+          "balEmi": 0
         },
         {
           "month": "01-07-2020",
@@ -341,7 +345,7 @@
       },
       "totalProperty": [
         {
-          "propertyType": "Gold loan",
+          "propertyType": "Gold",
           "assestValue": "50000",
           "file1": {
             "lastModified": 1584613971548,
@@ -359,45 +363,99 @@
           "interest": 147,
           "principal": 3272,
           "outstandingBal": 16727,
-          "emi": 3419
+          "emi": 3419,
+          "paymentMode": "NFFT",
+          "paymentRefNo": "ABCD2345654",
+          "ctDate": "22-3-2020",
+          "paidEmi": 3419,
+          "balEmi": 0
         },
         {
-          "month": "26-031-2020",
+          "month": "26-04-2020",
           "interest": 123,
           "principal": 3296,
           "outstandingBal": 13430,
           "emi": 3419
         },
         {
-          "month": "26-1-20201",
+          "month": "26-05-2020",
           "interest": 98,
           "principal": 3321,
           "outstandingBal": 10109,
           "emi": 3419
         },
         {
-          "month": "26-2-20201",
+          "month": "26-06-2020",
           "interest": 74,
           "principal": 3345,
           "outstandingBal": 6764,
           "emi": 3419
         },
         {
-          "month": "26-3-20201",
+          "month": "26-07-2020",
           "interest": 50,
           "principal": 3369,
           "outstandingBal": 3394,
           "emi": 3419
         },
         {
-          "month": "26-4-20201",
+          "month": "26-08-2020",
           "interest": 25,
           "principal": 3394,
           "outstandingBal": 0,
           "emi": 3419
         }
       ],
-      "id": "Req00002"
+      "id": "Req00002",
+      "emiScheduler": [
+        {
+          "month": "26-03-2020",
+          "interest": 147,
+          "principal": 3272,
+          "outstandingBal": 16727,
+          "emi": 3419,
+          "paymentMode": "NFFT",
+          "paymentRefNo": "ABCD2345654",
+          "ctDate": "22-3-2020",
+          "paidEmi": 3419,
+          "balEmi": 0
+        },
+        {
+          "month": "26-04-2020",
+          "interest": 123,
+          "principal": 3296,
+          "outstandingBal": 13430,
+          "emi": 3419
+        },
+        {
+          "month": "26-05-2020",
+          "interest": 98,
+          "principal": 3321,
+          "outstandingBal": 10109,
+          "emi": 3419
+        },
+        {
+          "month": "26-06-2020",
+          "interest": 74,
+          "principal": 3345,
+          "outstandingBal": 6764,
+          "emi": 3419
+        },
+        {
+          "month": "26-07-2020",
+          "interest": 50,
+          "principal": 3369,
+          "outstandingBal": 3394,
+          "emi": 3419
+        },
+        {
+          "month": "26-08-2020",
+          "interest": 25,
+          "principal": 3394,
+          "outstandingBal": 0,
+          "emi": 3419
+        }
+      ]
     },
     {
       "user": {
@@ -439,11 +497,11 @@
         "propertyType": "Car",
         "intrest": "8.8",
         "startDate": "2020-04-01",
-        "radio": "flexible"
+        "radio": ""
       },
       "totalProperty": [
         {
-          "propertyType": "Gold loan",
+          "propertyType": "Gold",
           "assestValue": "20000",
           "file1": {
             "lastModified": 1583774586861,
@@ -468,7 +526,6 @@
           }
         }
       ],
-      "id": "Req00003",
       "status": "Pending",
       "totalEmi": [
         {
@@ -479,125 +536,126 @@
           "emi": 148765
         },
         {
-          "month": "01-041-2020",
+          "month": "01-05-2020",
           "interest": 17377,
           "principal": 131388,
           "outstandingBal": 2238179,
           "emi": 148765
         },
         {
-          "month": "01-1-20201",
+          "month": "01-06-2020",
           "interest": 16413,
           "principal": 132352,
           "outstandingBal": 2105827,
           "emi": 148765
         },
         {
-          "month": "01-2-20201",
+          "month": "01-07-2020",
           "interest": 15443,
           "principal": 133322,
           "outstandingBal": 1972504,
           "emi": 148765
         },
         {
-          "month": "01-3-20201",
+          "month": "01-08-2020",
           "interest": 14465,
           "principal": 134300,
           "outstandingBal": 1838204,
           "emi": 148765
         },
         {
-          "month": "01-4-20201",
+          "month": "01-09-2020",
           "interest": 13480,
           "principal": 135285,
           "outstandingBal": 1702919,
           "emi": 148765
         },
         {
-          "month": "01-5-20201",
+          "month": "01-10-2020",
           "interest": 12488,
           "principal": 136277,
           "outstandingBal": 1566642,
           "emi": 148765
         },
         {
-          "month": "01-6-20201",
+          "month": "01-11-2020",
           "interest": 11489,
           "principal": 137276,
           "outstandingBal": 1429365,
           "emi": 148765
         },
         {
-          "month": "01-7-20201",
+          "month": "01-12-2020",
           "interest": 10482,
           "principal": 138283,
           "outstandingBal": 1291082,
           "emi": 148765
         },
         {
-          "month": "01-8-20201",
+          "month": "01-01-2021",
           "interest": 9468,
           "principal": 139297,
           "outstandingBal": 1151784,
           "emi": 148765
         },
         {
-          "month": "01-9-20201",
+          "month": "01-02-2021",
           "interest": 8446,
           "principal": 140319,
           "outstandingBal": 1011465,
           "emi": 148765
         },
         {
-          "month": "01-10-20201",
+          "month": "01-03-2021",
           "interest": 7417,
           "principal": 141348,
           "outstandingBal": 870117,
           "emi": 148765
         },
         {
-          "month": "01-11-20201",
+          "month": "01-04-2021",
           "interest": 6381,
           "principal": 142384,
           "outstandingBal": 727732,
           "emi": 148765
         },
         {
-          "month": "01-12-20201",
+          "month": "01-05-2021",
           "interest": 5337,
           "principal": 143428,
           "outstandingBal": 584303,
           "emi": 148765
         },
         {
-          "month": "01-1-202011",
+          "month": "01-06-2021",
           "interest": 4285,
           "principal": 144480,
           "outstandingBal": 439822,
           "emi": 148765
         },
         {
-          "month": "01-2-202011",
+          "month": "01-07-2021",
           "interest": 3225,
           "principal": 145540,
           "outstandingBal": 294282,
           "emi": 148765
         },
         {
-          "month": "01-3-202011",
+          "month": "01-08-2021",
           "interest": 2158,
           "principal": 146607,
           "outstandingBal": 147675,
           "emi": 148765
         },
         {
-          "month": "01-4-202011",
+          "month": "01-09-2021",
           "interest": 1083,
           "principal": 147682,
           "outstandingBal": 0,
           "emi": 148765
         }
-      ]
+      ],
+      "id": "Req00003"
     },
     {
       "user": {
@@ -646,7 +704,7 @@
       },
       "totalProperty": [
         {
-          "propertyType": "Gold loan",
+          "propertyType": "Gold",
           "assestValue": "100000",
           "file1": {
             "lastModified": 1584613971548,
@@ -667,77 +725,77 @@
           "emi": 39311
         },
         {
-          "month": "01-051-2020",
+          "month": "01-06-2020",
           "interest": 3036,
           "principal": 36275,
           "outstandingBal": 377713,
           "emi": 39311
         },
         {
-          "month": "01-1-20201",
+          "month": "01-07-2020",
           "interest": 2770,
           "principal": 36541,
           "outstandingBal": 341171,
           "emi": 39311
         },
         {
-          "month": "01-2-20201",
+          "month": "01-08-2020",
           "interest": 2502,
           "principal": 36809,
           "outstandingBal": 304361,
           "emi": 39311
         },
         {
-          "month": "01-3-20201",
+          "month": "01-09-2020",
           "interest": 2232,
           "principal": 37079,
           "outstandingBal": 267281,
           "emi": 39311
         },
         {
-          "month": "01-4-20201",
+          "month": "01-10-2020",
           "interest": 1960,
           "principal": 37351,
           "outstandingBal": 229930,
           "emi": 39311
         },
         {
-          "month": "01-5-20201",
+          "month": "01-11-2020",
           "interest": 1686,
           "principal": 37625,
           "outstandingBal": 192305,
           "emi": 39311
         },
         {
-          "month": "01-6-20201",
+          "month": "01-12-2020",
           "interest": 1410,
           "principal": 37901,
           "outstandingBal": 154404,
           "emi": 39311
         },
         {
-          "month": "01-7-20201",
+          "month": "01-01-2021",
           "interest": 1132,
           "principal": 38179,
           "outstandingBal": 116225,
           "emi": 39311
         },
         {
-          "month": "01-8-20201",
+          "month": "01-02-2021",
           "interest": 852,
           "principal": 38459,
           "outstandingBal": 77766,
           "emi": 39311
         },
         {
-          "month": "01-9-20201",
+          "month": "01-03-2021",
           "interest": 570,
           "principal": 38741,
           "outstandingBal": 39025,
           "emi": 39311
         },
         {
-          "month": "01-10-20201",
+          "month": "01-04-2021",
           "interest": 286,
           "principal": 39025,
           "outstandingBal": 0,
@@ -786,11 +844,11 @@
         "propertyType": "Gold",
         "intrest": "8.5",
         "startDate": "2020-06-01",
-        "radio": "flexible"
+        "radio": ""
       },
       "totalProperty": [
         {
-          "propertyType": "Gold loan",
+          "propertyType": "Gold",
           "assestValue": "20000",
           "file1": {
             "lastModified": 1583774586861,
@@ -815,7 +873,6 @@
           }
         }
       ],
-      "id": "Req00005",
       "status": "Pending",
       "totalEmi": [
         {
@@ -826,83 +883,84 @@
           "emi": 784978
         },
         {
-          "month": "01-061-2020",
+          "month": "01-07-2020",
           "interest": 58641,
           "principal": 726337,
           "outstandingBal": 7552435,
           "emi": 784978
         },
         {
-          "month": "01-1-20201",
+          "month": "01-08-2020",
           "interest": 53496,
           "principal": 731482,
           "outstandingBal": 6820953,
           "emi": 784978
         },
         {
-          "month": "01-2-20201",
+          "month": "01-09-2020",
           "interest": 48315,
           "principal": 736663,
           "outstandingBal": 6084290,
           "emi": 784978
         },
         {
-          "month": "01-3-20201",
+          "month": "01-10-2020",
           "interest": 43097,
           "principal": 741881,
           "outstandingBal": 5342409,
           "emi": 784978
         },
         {
-          "month": "01-4-20201",
+          "month": "01-11-2020",
           "interest": 37842,
           "principal": 747136,
           "outstandingBal": 4595273,
           "emi": 784978
         },
         {
-          "month": "01-5-20201",
+          "month": "01-12-2020",
           "interest": 32550,
           "principal": 752428,
           "outstandingBal": 3842844,
           "emi": 784978
         },
         {
-          "month": "01-6-20201",
+          "month": "01-01-2021",
           "interest": 27220,
           "principal": 757758,
           "outstandingBal": 3085086,
           "emi": 784978
         },
         {
-          "month": "01-7-20201",
+          "month": "01-02-2021",
           "interest": 21853,
           "principal": 763125,
           "outstandingBal": 2321960,
           "emi": 784978
         },
         {
-          "month": "01-8-20201",
+          "month": "01-03-2021",
           "interest": 16447,
           "principal": 768531,
           "outstandingBal": 1553429,
           "emi": 784978
         },
         {
-          "month": "01-9-20201",
+          "month": "01-04-2021",
           "interest": 11003,
           "principal": 773975,
           "outstandingBal": 779454,
           "emi": 784978
         },
         {
-          "month": "01-10-20201",
+          "month": "01-05-2021",
           "interest": 5521,
           "principal": 779457,
           "outstandingBal": 0,
           "emi": 784978
         }
-      ]
+      ],
+      "id": "Req00005"
     }
   ],
   "property": [
@@ -912,13 +970,15 @@
       "propertyAgainst": "10.5",
       "other": "9",
       "id": 1
-    },
+    }
+  ],
+  "penalty": [
     {
-      "gold": "355",
-      "car": "88",
-      "propertyAgainst": "100",
-      "other": "94",
-      "id": 2
+      "gold": "9.2",
+      "car": "8.4",
+      "propertyAgainst": "11.5",
+      "other": "9.5",
+      "id": 1
     }
   ],
   "user": [
@@ -938,24 +998,14 @@
       "id": 3
     },
     {
-      "username": "Test3",
-      "userrole": "Approver L2",
-      "id": 4
-    },
-    {
       "username": "Joydeep",
       "userrole": "Authorizer",
       "id": 6
     },
     {
       "username": "Laavanya",
-      "userrole": "Authorizer",
+      "userrole": "Approver L2",
       "id": 7
-    },
-    {
-      "username": "User1",
-      "userrole": "User",
-      "id": 8
     }
   ]
 }
