@@ -69,7 +69,7 @@
           }
         }
       ],
-      "status": "Pending",
+      "status": "Approved",
       "totalEmi": [
         {
           "month": "01-04-2020",
@@ -177,7 +177,7 @@
           "emi": 141013
         }
       ],
-      "id": "Req00012",
+      "id": "Req00001",
       "emiScheduler": [
         {
           "month": "01-04-2020",
@@ -316,6 +316,17 @@
             "country": "hjhj"
           },
           "permanentAddress": {}
+        },
+        "address": {
+          "currentAddress": {
+            "line1": "jhkjhkjh",
+            "line2": "hjhj",
+            "landmark": "jhjh",
+            "city": "jhj",
+            "state": "hjhj",
+            "country": "hjhj"
+          },
+          "permanentAddress": {}
         }
       },
       "annualIncome": "2999",
@@ -323,108 +334,573 @@
       "expLoans": {
         "principle": "20000",
         "tenure": "6",
-        "propertyType": "car",
+        "propertyType": "Car",
         "intrest": "8.8",
         "startDate": "2020-03-26",
-        "radio": "flexible"
+        "radio": ""
       },
-      "totalProperty": [],
-      "id": "Req00002",
-      "status": "Pending",
+      "totalProperty": [
+        {
+          "propertyType": "Gold loan",
+          "assestValue": "50000",
+          "file1": {
+            "lastModified": 1584613971548,
+            "lastModifiedDate": "2020-03-19T10:32:51.548Z",
+            "name": "Test.txt",
+            "size": 16,
+            "type": "text/plain"
+          }
+        }
+      ],
+      "status": "Approved",
       "totalEmi": [
         {
           "month": "26-03-2020",
           "interest": 147,
           "principal": 3272,
           "outstandingBal": 16727,
-          "emi": 3419,
-          "paymentMode": "cash",
-          "ctDate": "12-3-2020",
-          "paidEmi": 3419,
-          "balEmi": 0
+          "emi": 3419
         },
         {
-          "month": "26-04-2020",
+          "month": "26-031-2020",
           "interest": 123,
           "principal": 3296,
           "outstandingBal": 13430,
           "emi": 3419
         },
         {
-          "month": "26-05-2020",
+          "month": "26-1-20201",
           "interest": 98,
           "principal": 3321,
           "outstandingBal": 10109,
           "emi": 3419
         },
         {
-          "month": "26-06-2020",
+          "month": "26-2-20201",
           "interest": 74,
           "principal": 3345,
           "outstandingBal": 6764,
           "emi": 3419
         },
         {
-          "month": "26-07-2020",
+          "month": "26-3-20201",
           "interest": 50,
           "principal": 3369,
           "outstandingBal": 3394,
           "emi": 3419
         },
         {
-          "month": "26-08-2020",
+          "month": "26-4-20201",
           "interest": 25,
           "principal": 3394,
           "outstandingBal": 0,
           "emi": 3419
         }
       ],
-      "emiScheduler": [
+      "id": "Req00002"
+    },
+    {
+      "user": {
+        "fname": "Sumit",
+        "lname": "Das",
+        "faName": "Arijit Das",
+        "age": "1995-06-14",
+        "mobileNo": "9884342567",
+        "emailId": "test@gmail.com",
+        "gender": "Male",
+        "panNo": "ZERUO56565",
+        "AadharNo": "1883355563",
+        "occupation": "Self Employee",
+        "company": "Wipro",
+        "Address": {
+          "currentAddress": {
+            "line1": "Whitefield",
+            "city": "Bangalore",
+            "state": "Karnataka",
+            "country": "India"
+          },
+          "permanentAddress": {}
+        },
+        "address": {
+          "currentAddress": {
+            "line1": "Whitefield",
+            "city": "Bangalore",
+            "state": "Karnataka",
+            "country": "India"
+          },
+          "permanentAddress": {}
+        }
+      },
+      "annualIncome": "1000000",
+      "financial": [],
+      "expLoans": {
+        "principle": "2500000",
+        "tenure": "18",
+        "propertyType": "Car",
+        "intrest": "8.8",
+        "startDate": "2020-04-01",
+        "radio": "flexible"
+      },
+      "totalProperty": [
         {
-          "month": "26-03-2020",
-          "interest": 147,
-          "principal": 3272,
-          "outstandingBal": 16727,
-          "emi": 3419,
-          "paymentMode": "cash",
-          "ctDate": "12-3-2020",
-          "paidEmi": 3419,
-          "balEmi": 0
+          "propertyType": "Gold loan",
+          "assestValue": "20000",
+          "file1": {
+            "lastModified": 1583774586861,
+            "lastModifiedDate": "2020-03-09T17:23:06.861Z",
+            "name": "desktop-solid (1).svg",
+            "size": 462,
+            "type": "image/svg+xml"
+          },
+          "file2": {
+            "lastModified": 1580218706158,
+            "lastModifiedDate": "2020-01-28T13:38:26.158Z",
+            "name": "envelope-solid.svg",
+            "size": 700,
+            "type": "image/svg+xml"
+          },
+          "file3": {
+            "lastModified": 1580216115058,
+            "lastModifiedDate": "2020-01-28T12:55:15.058Z",
+            "name": "location-arrow-solid.svg",
+            "size": 406,
+            "type": "image/svg+xml"
+          }
+        }
+      ],
+      "id": "Req00003",
+      "status": "Pending",
+      "totalEmi": [
+        {
+          "month": "01-04-2020",
+          "interest": 18333,
+          "principal": 130432,
+          "outstandingBal": 2369568,
+          "emi": 148765
         },
         {
-          "month": "26-04-2020",
-          "interest": 123,
-          "principal": 3296,
-          "outstandingBal": 13430,
-          "emi": 3419
+          "month": "01-041-2020",
+          "interest": 17377,
+          "principal": 131388,
+          "outstandingBal": 2238179,
+          "emi": 148765
         },
         {
-          "month": "26-05-2020",
-          "interest": 98,
-          "principal": 3321,
-          "outstandingBal": 10109,
-          "emi": 3419
+          "month": "01-1-20201",
+          "interest": 16413,
+          "principal": 132352,
+          "outstandingBal": 2105827,
+          "emi": 148765
         },
         {
-          "month": "26-06-2020",
-          "interest": 74,
-          "principal": 3345,
-          "outstandingBal": 6764,
-          "emi": 3419
+          "month": "01-2-20201",
+          "interest": 15443,
+          "principal": 133322,
+          "outstandingBal": 1972504,
+          "emi": 148765
         },
         {
-          "month": "26-07-2020",
-          "interest": 50,
-          "principal": 3369,
-          "outstandingBal": 3394,
-          "emi": 3419
+          "month": "01-3-20201",
+          "interest": 14465,
+          "principal": 134300,
+          "outstandingBal": 1838204,
+          "emi": 148765
         },
         {
-          "month": "26-08-2020",
-          "interest": 25,
-          "principal": 3394,
+          "month": "01-4-20201",
+          "interest": 13480,
+          "principal": 135285,
+          "outstandingBal": 1702919,
+          "emi": 148765
+        },
+        {
+          "month": "01-5-20201",
+          "interest": 12488,
+          "principal": 136277,
+          "outstandingBal": 1566642,
+          "emi": 148765
+        },
+        {
+          "month": "01-6-20201",
+          "interest": 11489,
+          "principal": 137276,
+          "outstandingBal": 1429365,
+          "emi": 148765
+        },
+        {
+          "month": "01-7-20201",
+          "interest": 10482,
+          "principal": 138283,
+          "outstandingBal": 1291082,
+          "emi": 148765
+        },
+        {
+          "month": "01-8-20201",
+          "interest": 9468,
+          "principal": 139297,
+          "outstandingBal": 1151784,
+          "emi": 148765
+        },
+        {
+          "month": "01-9-20201",
+          "interest": 8446,
+          "principal": 140319,
+          "outstandingBal": 1011465,
+          "emi": 148765
+        },
+        {
+          "month": "01-10-20201",
+          "interest": 7417,
+          "principal": 141348,
+          "outstandingBal": 870117,
+          "emi": 148765
+        },
+        {
+          "month": "01-11-20201",
+          "interest": 6381,
+          "principal": 142384,
+          "outstandingBal": 727732,
+          "emi": 148765
+        },
+        {
+          "month": "01-12-20201",
+          "interest": 5337,
+          "principal": 143428,
+          "outstandingBal": 584303,
+          "emi": 148765
+        },
+        {
+          "month": "01-1-202011",
+          "interest": 4285,
+          "principal": 144480,
+          "outstandingBal": 439822,
+          "emi": 148765
+        },
+        {
+          "month": "01-2-202011",
+          "interest": 3225,
+          "principal": 145540,
+          "outstandingBal": 294282,
+          "emi": 148765
+        },
+        {
+          "month": "01-3-202011",
+          "interest": 2158,
+          "principal": 146607,
+          "outstandingBal": 147675,
+          "emi": 148765
+        },
+        {
+          "month": "01-4-202011",
+          "interest": 1083,
+          "principal": 147682,
           "outstandingBal": 0,
-          "emi": 3419
+          "emi": 148765
+        }
+      ]
+    },
+    {
+      "user": {
+        "fname": "Sanju",
+        "lname": "Das",
+        "faName": "Dell",
+        "age": "2020-03-05",
+        "mobileNo": "1231",
+        "emailId": "shilpa.khanna0611@gmail.com",
+        "gender": "female",
+        "panNo": "665465",
+        "AadharNo": "21212",
+        "occupation": "Self Employee",
+        "Address": {
+          "currentAddress": {
+            "line1": "jhkjhkjh",
+            "line2": "hjhj",
+            "landmark": "jhjh",
+            "city": "jhj",
+            "state": "hjhj",
+            "country": "hjhj"
+          },
+          "permanentAddress": {}
+        },
+        "address": {
+          "currentAddress": {
+            "line1": "jhkjhkjh",
+            "line2": "hjhj",
+            "landmark": "jhjh",
+            "city": "jhj",
+            "state": "hjhj",
+            "country": "hjhj"
+          },
+          "permanentAddress": {}
+        }
+      },
+      "annualIncome": "2999",
+      "financial": [],
+      "expLoans": {
+        "principle": "450000",
+        "tenure": "12",
+        "propertyType": "Car",
+        "intrest": "8.8",
+        "startDate": "2020-05-01",
+        "radio": ""
+      },
+      "totalProperty": [
+        {
+          "propertyType": "Gold loan",
+          "assestValue": "100000",
+          "file1": {
+            "lastModified": 1584613971548,
+            "lastModifiedDate": "2020-03-19T10:32:51.548Z",
+            "name": "Test.txt",
+            "size": 16,
+            "type": "text/plain"
+          }
+        }
+      ],
+      "status": "Pending",
+      "totalEmi": [
+        {
+          "month": "01-05-2020",
+          "interest": 3300,
+          "principal": 36011,
+          "outstandingBal": 413989,
+          "emi": 39311
+        },
+        {
+          "month": "01-051-2020",
+          "interest": 3036,
+          "principal": 36275,
+          "outstandingBal": 377713,
+          "emi": 39311
+        },
+        {
+          "month": "01-1-20201",
+          "interest": 2770,
+          "principal": 36541,
+          "outstandingBal": 341171,
+          "emi": 39311
+        },
+        {
+          "month": "01-2-20201",
+          "interest": 2502,
+          "principal": 36809,
+          "outstandingBal": 304361,
+          "emi": 39311
+        },
+        {
+          "month": "01-3-20201",
+          "interest": 2232,
+          "principal": 37079,
+          "outstandingBal": 267281,
+          "emi": 39311
+        },
+        {
+          "month": "01-4-20201",
+          "interest": 1960,
+          "principal": 37351,
+          "outstandingBal": 229930,
+          "emi": 39311
+        },
+        {
+          "month": "01-5-20201",
+          "interest": 1686,
+          "principal": 37625,
+          "outstandingBal": 192305,
+          "emi": 39311
+        },
+        {
+          "month": "01-6-20201",
+          "interest": 1410,
+          "principal": 37901,
+          "outstandingBal": 154404,
+          "emi": 39311
+        },
+        {
+          "month": "01-7-20201",
+          "interest": 1132,
+          "principal": 38179,
+          "outstandingBal": 116225,
+          "emi": 39311
+        },
+        {
+          "month": "01-8-20201",
+          "interest": 852,
+          "principal": 38459,
+          "outstandingBal": 77766,
+          "emi": 39311
+        },
+        {
+          "month": "01-9-20201",
+          "interest": 570,
+          "principal": 38741,
+          "outstandingBal": 39025,
+          "emi": 39311
+        },
+        {
+          "month": "01-10-20201",
+          "interest": 286,
+          "principal": 39025,
+          "outstandingBal": 0,
+          "emi": 39311
+        }
+      ],
+      "id": "Req00004"
+    },
+    {
+      "user": {
+        "fname": "Sumit",
+        "lname": "Das",
+        "faName": "Arijit Das",
+        "age": "1995-06-14",
+        "mobileNo": "9884342567",
+        "emailId": "test@gmail.com",
+        "gender": "Male",
+        "panNo": "ZERUO56565",
+        "AadharNo": "1883355563",
+        "occupation": "Self Employee",
+        "company": "Wipro",
+        "Address": {
+          "currentAddress": {
+            "line1": "Whitefield",
+            "city": "Bangalore",
+            "state": "Karnataka",
+            "country": "India"
+          },
+          "permanentAddress": {}
+        },
+        "address": {
+          "currentAddress": {
+            "line1": "Whitefield",
+            "city": "Bangalore",
+            "state": "Karnataka",
+            "country": "India"
+          },
+          "permanentAddress": {}
+        }
+      },
+      "annualIncome": "1000000",
+      "financial": [],
+      "expLoans": {
+        "principle": "9000000",
+        "tenure": "12",
+        "propertyType": "Gold",
+        "intrest": "8.5",
+        "startDate": "2020-06-01",
+        "radio": "flexible"
+      },
+      "totalProperty": [
+        {
+          "propertyType": "Gold loan",
+          "assestValue": "20000",
+          "file1": {
+            "lastModified": 1583774586861,
+            "lastModifiedDate": "2020-03-09T17:23:06.861Z",
+            "name": "desktop-solid (1).svg",
+            "size": 462,
+            "type": "image/svg+xml"
+          },
+          "file2": {
+            "lastModified": 1580218706158,
+            "lastModifiedDate": "2020-01-28T13:38:26.158Z",
+            "name": "envelope-solid.svg",
+            "size": 700,
+            "type": "image/svg+xml"
+          },
+          "file3": {
+            "lastModified": 1580216115058,
+            "lastModifiedDate": "2020-01-28T12:55:15.058Z",
+            "name": "location-arrow-solid.svg",
+            "size": 406,
+            "type": "image/svg+xml"
+          }
+        }
+      ],
+      "id": "Req00005",
+      "status": "Pending",
+      "totalEmi": [
+        {
+          "month": "01-06-2020",
+          "interest": 63750,
+          "principal": 721228,
+          "outstandingBal": 8278772,
+          "emi": 784978
+        },
+        {
+          "month": "01-061-2020",
+          "interest": 58641,
+          "principal": 726337,
+          "outstandingBal": 7552435,
+          "emi": 784978
+        },
+        {
+          "month": "01-1-20201",
+          "interest": 53496,
+          "principal": 731482,
+          "outstandingBal": 6820953,
+          "emi": 784978
+        },
+        {
+          "month": "01-2-20201",
+          "interest": 48315,
+          "principal": 736663,
+          "outstandingBal": 6084290,
+          "emi": 784978
+        },
+        {
+          "month": "01-3-20201",
+          "interest": 43097,
+          "principal": 741881,
+          "outstandingBal": 5342409,
+          "emi": 784978
+        },
+        {
+          "month": "01-4-20201",
+          "interest": 37842,
+          "principal": 747136,
+          "outstandingBal": 4595273,
+          "emi": 784978
+        },
+        {
+          "month": "01-5-20201",
+          "interest": 32550,
+          "principal": 752428,
+          "outstandingBal": 3842844,
+          "emi": 784978
+        },
+        {
+          "month": "01-6-20201",
+          "interest": 27220,
+          "principal": 757758,
+          "outstandingBal": 3085086,
+          "emi": 784978
+        },
+        {
+          "month": "01-7-20201",
+          "interest": 21853,
+          "principal": 763125,
+          "outstandingBal": 2321960,
+          "emi": 784978
+        },
+        {
+          "month": "01-8-20201",
+          "interest": 16447,
+          "principal": 768531,
+          "outstandingBal": 1553429,
+          "emi": 784978
+        },
+        {
+          "month": "01-9-20201",
+          "interest": 11003,
+          "principal": 773975,
+          "outstandingBal": 779454,
+          "emi": 784978
+        },
+        {
+          "month": "01-10-20201",
+          "interest": 5521,
+          "principal": 779457,
+          "outstandingBal": 0,
+          "emi": 784978
         }
       ]
     }
