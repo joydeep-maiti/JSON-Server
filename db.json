@@ -969,16 +969,8 @@
       "car": "8.8",
       "propertyAgainst": "10.5",
       "other": "9",
-      "id": 1
-    }
-  ],
-  "penalty": [
-    {
-      "gold": "9.2",
-      "car": "8.4",
-      "propertyAgainst": "11.5",
-      "other": "9.5",
-      "id": 1
+      "id": 1,
+      "penalty": "7.8"
     }
   ],
   "user": [
@@ -1006,6 +998,11 @@
       "username": "Laavanya",
       "userrole": "Approver L2",
       "id": 7
+    },
+    {
+      "username": "Test3",
+      "userrole": "User",
+      "id": 8
     }
   ]
 }
