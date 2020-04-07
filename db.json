@@ -341,7 +341,7 @@
         "propertyType": "Car",
         "intrest": "8.8",
         "startDate": "2020-03-26",
-        "radio": ""
+        "radio": "flexible"
       },
       "totalProperty": [
         {
@@ -474,7 +474,7 @@
           "currentAddress": {
             "line1": "Whitefield",
             "city": "Bangalore",
-            "state": "Karnataka",
+            "state": true,
             "country": "India"
           },
           "permanentAddress": {}
@@ -497,7 +497,7 @@
         "propertyType": "Car",
         "intrest": "8.8",
         "startDate": "2020-04-01",
-        "radio": ""
+        "radio": "flexible"
       },
       "totalProperty": [
         {
@@ -700,7 +700,7 @@
         "propertyType": "Car",
         "intrest": "8.8",
         "startDate": "2020-05-01",
-        "radio": ""
+        "radio": "flexible"
       },
       "totalProperty": [
         {
@@ -844,7 +844,7 @@
         "propertyType": "Gold",
         "intrest": "8.5",
         "startDate": "2020-06-01",
-        "radio": ""
+        "radio": "fixed"
       },
       "totalProperty": [
         {
@@ -965,9 +965,9 @@
   ],
   "property": [
     {
-      "gold": "9.4",
+      "gold": "2",
       "car": "8.8",
-      "propertyAgainst": "10.5",
+      "propertyAgainst": "10.59",
       "other": "9",
       "id": 1,
       "penalty": "7.8"
@@ -1003,6 +1003,11 @@
       "username": "Test3",
       "userrole": "User",
       "id": 8
+    },
+    {
+      "username": "Admin",
+      "userrole": "Admin",
+      "id": 9
     }
   ]
 }
