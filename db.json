@@ -47,25 +47,25 @@
           "propertyType": "Gold",
           "assestValue": "20000",
           "file1": {
-            "lastModified": 1583774586861,
-            "lastModifiedDate": "2020-03-09T17:23:06.861Z",
-            "name": "desktop-solid (1).svg",
-            "size": 462,
-            "type": "image/svg+xml"
+            "lastModified": 1586336816186,
+            "lastModifiedDate": "2020-04-08T09:06:56.186Z",
+            "name": "mortgage.pdf",
+            "size": 28291,
+            "type": "application/pdf"
           },
           "file2": {
-            "lastModified": 1580218706158,
-            "lastModifiedDate": "2020-01-28T13:38:26.158Z",
-            "name": "envelope-solid.svg",
-            "size": 700,
-            "type": "image/svg+xml"
+            "lastModified": 1586336869691,
+            "lastModifiedDate": "2020-04-08T09:07:49.691Z",
+            "name": "aadhar.pdf",
+            "size": 27224,
+            "type": "application/pdf"
           },
           "file3": {
-            "lastModified": 1580216115058,
-            "lastModifiedDate": "2020-01-28T12:55:15.058Z",
-            "name": "location-arrow-solid.svg",
-            "size": 406,
-            "type": "image/svg+xml"
+            "lastModified": 1586336900169,
+            "lastModifiedDate": "2020-04-08T09:08:20.169Z",
+            "name": "pan.pdf",
+            "size": 27845,
+            "type": "application/pdf"
           }
         }
       ],
@@ -348,11 +348,25 @@
           "propertyType": "Gold",
           "assestValue": "50000",
           "file1": {
-            "lastModified": 1584613971548,
-            "lastModifiedDate": "2020-03-19T10:32:51.548Z",
-            "name": "Test.txt",
-            "size": 16,
-            "type": "text/plain"
+            "lastModified": 1586336816186,
+            "lastModifiedDate": "2020-04-08T09:06:56.186Z",
+            "name": "mortgage.pdf",
+            "size": 28291,
+            "type": "application/pdf"
+          },
+          "file2": {
+            "lastModified": 1586336869691,
+            "lastModifiedDate": "2020-04-08T09:07:49.691Z",
+            "name": "aadhar.pdf",
+            "size": 27224,
+            "type": "application/pdf"
+          },
+          "file3": {
+            "lastModified": 1586336900169,
+            "lastModifiedDate": "2020-04-08T09:08:20.169Z",
+            "name": "pan.pdf",
+            "size": 27845,
+            "type": "application/pdf"
           }
         }
       ],
@@ -504,25 +518,25 @@
           "propertyType": "Gold",
           "assestValue": "20000",
           "file1": {
-            "lastModified": 1583774586861,
-            "lastModifiedDate": "2020-03-09T17:23:06.861Z",
-            "name": "desktop-solid (1).svg",
-            "size": 462,
-            "type": "image/svg+xml"
+            "lastModified": 1586336816186,
+            "lastModifiedDate": "2020-04-08T09:06:56.186Z",
+            "name": "mortgage.pdf",
+            "size": 28291,
+            "type": "application/pdf"
           },
           "file2": {
-            "lastModified": 1580218706158,
-            "lastModifiedDate": "2020-01-28T13:38:26.158Z",
-            "name": "envelope-solid.svg",
-            "size": 700,
-            "type": "image/svg+xml"
+            "lastModified": 1586336869691,
+            "lastModifiedDate": "2020-04-08T09:07:49.691Z",
+            "name": "aadhar.pdf",
+            "size": 27224,
+            "type": "application/pdf"
           },
           "file3": {
-            "lastModified": 1580216115058,
-            "lastModifiedDate": "2020-01-28T12:55:15.058Z",
-            "name": "location-arrow-solid.svg",
-            "size": 406,
-            "type": "image/svg+xml"
+            "lastModified": 1586336900169,
+            "lastModifiedDate": "2020-04-08T09:08:20.169Z",
+            "name": "pan.pdf",
+            "size": 27845,
+            "type": "application/pdf"
           }
         }
       ],
@@ -707,11 +721,50 @@
           "propertyType": "Gold",
           "assestValue": "100000",
           "file1": {
-            "lastModified": 1584613971548,
-            "lastModifiedDate": "2020-03-19T10:32:51.548Z",
-            "name": "Test.txt",
-            "size": 16,
-            "type": "text/plain"
+            "lastModified": 1586336816186,
+            "lastModifiedDate": "2020-04-08T09:06:56.186Z",
+            "name": "mortgage.pdf",
+            "size": 28291,
+            "type": "application/pdf"
+          },
+          "file2": {
+            "lastModified": 1586336869691,
+            "lastModifiedDate": "2020-04-08T09:07:49.691Z",
+            "name": "aadhar.pdf",
+            "size": 27224,
+            "type": "application/pdf"
+          },
+          "file3": {
+            "lastModified": 1586336900169,
+            "lastModifiedDate": "2020-04-08T09:08:20.169Z",
+            "name": "pan.pdf",
+            "size": 27845,
+            "type": "application/pdf"
+          }
+        },
+        {
+          "propertyType": "Property",
+          "assestValue": "12000",
+          "file1": {
+            "lastModified": 1586336816186,
+            "lastModifiedDate": "2020-04-08T09:06:56.186Z",
+            "name": "mortgage.pdf",
+            "size": 28291,
+            "type": "application/pdf"
+          },
+          "file2": {
+            "lastModified": 1586336869691,
+            "lastModifiedDate": "2020-04-08T09:07:49.691Z",
+            "name": "aadhar.pdf",
+            "size": 27224,
+            "type": "application/pdf"
+          },
+          "file3": {
+            "lastModified": 1586336900169,
+            "lastModifiedDate": "2020-04-08T09:08:20.169Z",
+            "name": "pan.pdf",
+            "size": 27845,
+            "type": "application/pdf"
           }
         }
       ],
@@ -848,28 +901,28 @@
       },
       "totalProperty": [
         {
-          "propertyType": "Gold",
-          "assestValue": "20000",
+          "propertyType": "Property",
+          "assestValue": "12000",
           "file1": {
-            "lastModified": 1583774586861,
-            "lastModifiedDate": "2020-03-09T17:23:06.861Z",
-            "name": "desktop-solid (1).svg",
-            "size": 462,
-            "type": "image/svg+xml"
+            "lastModified": 1586336816186,
+            "lastModifiedDate": "2020-04-08T09:06:56.186Z",
+            "name": "mortgage.pdf",
+            "size": 28291,
+            "type": "application/pdf"
           },
           "file2": {
-            "lastModified": 1580218706158,
-            "lastModifiedDate": "2020-01-28T13:38:26.158Z",
-            "name": "envelope-solid.svg",
-            "size": 700,
-            "type": "image/svg+xml"
+            "lastModified": 1586336869691,
+            "lastModifiedDate": "2020-04-08T09:07:49.691Z",
+            "name": "aadhar.pdf",
+            "size": 27224,
+            "type": "application/pdf"
           },
           "file3": {
-            "lastModified": 1580216115058,
-            "lastModifiedDate": "2020-01-28T12:55:15.058Z",
-            "name": "location-arrow-solid.svg",
-            "size": 406,
-            "type": "image/svg+xml"
+            "lastModified": 1586336900169,
+            "lastModifiedDate": "2020-04-08T09:08:20.169Z",
+            "name": "pan.pdf",
+            "size": 27845,
+            "type": "application/pdf"
           }
         }
       ],
